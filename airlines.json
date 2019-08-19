@@ -1,0 +1,5406 @@
+[
+    {
+      "mawb": "002",
+      "icao": "CRG",
+      "iata": "2G",
+      "airline": "Cargoitalia",
+      "country": "Italy"
+    },
+    {
+      "mawb": "005",
+      "icao": "COA",
+      "iata": "CO",
+      "airline": "Continental Airlines",
+      "country": "United States"
+    },
+    {
+      "mawb": "009",
+      "icao": "GMG",
+      "iata": "Z5",
+      "airline": "GMG Airlines",
+      "country": "Bangladesh"
+    },
+    {
+      "mawb": "011",
+      "icao": "MSI",
+      "iata": "M9",
+      "airline": "Motor Sich JSC Airlines",
+      "country": "Ukraine"
+    },
+    {
+      "mawb": "014",
+      "icao": "ACA",
+      "iata": "AC",
+      "airline": "Air Canada",
+      "country": "Canada"
+    },
+    {
+      "mawb": "017",
+      "icao": "LMP",
+      "iata": "U3",
+      "airline": "Air Plus Argentina",
+      "country": "Argentina"
+    },
+    {
+      "mawb": "019",
+      "icao": "PAS",
+      "iata": "6D",
+      "airline": "Pelita Air Service",
+      "country": "Indonesia"
+    },
+    {
+      "mawb": "021",
+      "icao": "KRP",
+      "iata": "V3",
+      "airline": "Carpatair",
+      "country": "Romania"
+    },
+    {
+      "mawb": "023",
+      "icao": "FDX",
+      "iata": "FX",
+      "airline": "FedEx Express",
+      "country": "United States"
+    },
+    {
+      "mawb": "026",
+      "icao": "SOV",
+      "iata": "6W",
+      "airline": "Saravia",
+      "country": "Russia"
+    },
+    {
+      "mawb": "029",
+      "icao": "VTS",
+      "iata": "3K",
+      "airline": "Everts Air Cargo",
+      "country": "United States"
+    },
+    {
+      "mawb": "031",
+      "icao": "PRF",
+      "iata": "PW",
+      "airline": "Precision Air",
+      "country": "Tanzania"
+    },
+    {
+      "mawb": "033",
+      "icao": "TLR",
+      "iata": "7Q",
+      "airline": "Air Libya",
+      "country": "Libya"
+    },
+    {
+      "mawb": "035",
+      "icao": "ARE",
+      "iata": "4C",
+      "airline": "Aires Colombia (Aerovias de Integracion)",
+      "country": "Colombia"
+    },
+    {
+      "mawb": "037",
+      "icao": "USA",
+      "iata": "US",
+      "airline": "US Airways",
+      "country": "United States"
+    },
+    {
+      "mawb": "040",
+      "icao": "HFY",
+      "iata": "5K",
+      "airline": "Hi Fly",
+      "country": "Portugal"
+    },
+    {
+      "mawb": "042",
+      "icao": "VRG",
+      "iata": "RG",
+      "airline": "VARIG Brazilian Airlines",
+      "country": "Brazil"
+    },
+    {
+      "mawb": "044",
+      "icao": "ARG",
+      "iata": "AR",
+      "airline": "Aerolineas Argentinas",
+      "country": "Argentina"
+    },
+    {
+      "mawb": "046",
+      "icao": "MGE",
+      "airline": "Asia Pacific Airlines",
+      "country": "United States"
+    },
+    {
+      "mawb": "048",
+      "icao": "CYP",
+      "iata": "CY",
+      "airline": "Cyprus Airways",
+      "country": "Cyprus"
+    },
+    {
+      "mawb": "050",
+      "icao": "OAL",
+      "iata": "OA",
+      "airline": "Olympic Airways",
+      "country": "Greece"
+    },
+    {
+      "mawb": "052",
+      "icao": "RPA",
+      "iata": "RW",
+      "airline": "Republic Airlines",
+      "country": "United States"
+    },
+    {
+      "mawb": "055",
+      "icao": "AZA",
+      "iata": "AZ",
+      "airline": "Alitalia",
+      "country": "Italy"
+    },
+    {
+      "mawb": "057",
+      "icao": "AFR",
+      "iata": "AF",
+      "airline": "Air France",
+      "country": "France"
+    },
+    {
+      "mawb": "060",
+      "icao": "FWQ",
+      "iata": "YC",
+      "airline": "Flight West Airlines",
+      "country": "Australia"
+    },
+    {
+      "mawb": "062",
+      "icao": "SKA",
+      "airline": "Skyjet Brasil",
+      "country": "Brazil"
+    },
+    {
+      "mawb": "064",
+      "icao": "CSA",
+      "iata": "OK",
+      "airline": "Czech Airlines",
+      "country": "Czech Republic"
+    },
+    {
+      "mawb": "067",
+      "icao": "AEY",
+      "iata": "I9",
+      "airline": "Air Italy",
+      "country": "Italy"
+    },
+    {
+      "mawb": "069",
+      "icao": "LPR",
+      "iata": "MJ",
+      "airline": "LAPA Lineas Aereas Privadas Argentinas",
+      "country": "Argentina"
+    },
+    {
+      "mawb": "071",
+      "icao": "ETH",
+      "iata": "ET",
+      "airline": "Ethiopian Airlines",
+      "country": "Ethiopia"
+    },
+    {
+      "mawb": "073",
+      "icao": "IAW",
+      "iata": "IA",
+      "airline": "Iraqi Airways",
+      "country": "Iraq"
+    },
+    {
+      "mawb": "075",
+      "icao": "IBE",
+      "iata": "IB",
+      "airline": "Iberia",
+      "country": "Spain"
+    },
+    {
+      "mawb": "077",
+      "icao": "MSR",
+      "iata": "MS",
+      "airline": "Egyptair",
+      "country": "Egypt"
+    },
+    {
+      "mawb": "079",
+      "icao": "PAL",
+      "iata": "PR",
+      "airline": "Philippine Airlines",
+      "country": "Philippines"
+    },
+    {
+      "mawb": "081",
+      "icao": "QFA",
+      "iata": "QF",
+      "airline": "Qantas Airways Ltd",
+      "country": "Australia"
+    },
+    {
+      "mawb": "083",
+      "icao": "EXY",
+      "iata": "XZ",
+      "airline": "South African Express Airways",
+      "country": "South Africa"
+    },
+    {
+      "mawb": "086",
+      "icao": "ANZ",
+      "iata": "NZ",
+      "airline": "Air New Zealand",
+      "country": "New Zealand"
+    },
+    {
+      "mawb": "088",
+      "icao": "ARD",
+      "iata": "2B",
+      "airline": "ATA Aerocondor Transportes Aéreos",
+      "country": "Portugal"
+    },
+    {
+      "mawb": "090",
+      "icao": "KFR",
+      "iata": "IT",
+      "airline": "Kingfisher Airlines",
+      "country": "India"
+    },
+    {
+      "mawb": "092",
+      "icao": "RKA",
+      "iata": "RK",
+      "airline": "Air Afrique",
+      "country": "Ivory Coast"
+    },
+    {
+      "mawb": "094",
+      "icao": "CGK",
+      "iata": "C4",
+      "airline": "Click Airways",
+      "country": "United Arab Emirates, Sharjah"
+    },
+    {
+      "mawb": "096",
+      "icao": "IRA",
+      "iata": "IR",
+      "airline": "Iran Air",
+      "country": "Iran"
+    },
+    {
+      "mawb": "098",
+      "icao": "AIC",
+      "iata": "AI",
+      "airline": "Air India",
+      "country": "India"
+    },
+    {
+      "mawb": "101",
+      "icao": "DLA",
+      "iata": "EN",
+      "airline": "Air Dolomiti SPA",
+      "country": "Italy"
+    },
+    {
+      "mawb": "105",
+      "icao": "FIN",
+      "iata": "AY",
+      "airline": "Finnair Cargo",
+      "country": "Finland"
+    },
+    {
+      "mawb": "107",
+      "icao": "CRF",
+      "iata": "OR",
+      "airline": "Crimea Air",
+      "country": "Ukraine"
+    },
+    {
+      "mawb": "109",
+      "icao": "MLI",
+      "iata": "L9",
+      "airline": "Air Mali S.A.",
+      "country": "Mali"
+    },
+    {
+      "mawb": "111",
+      "icao": "BHS",
+      "iata": "UP",
+      "airline": "Bahamasair",
+      "country": "Caribbean Area, Bahamas"
+    },
+    {
+      "mawb": "113",
+      "icao": "KIL",
+      "iata": "GW",
+      "airline": "Kuban Airlines",
+      "country": "Russia"
+    },
+    {
+      "mawb": "114",
+      "icao": "ELY",
+      "iata": "LY",
+      "airline": "El Al Israel Airlines",
+      "country": "Israel"
+    },
+    {
+      "mawb": "116",
+      "icao": "BHT",
+      "iata": "C6",
+      "airline": "Bright Air",
+      "country": "Netherlands"
+    },
+    {
+      "mawb": "118",
+      "icao": "DTA",
+      "iata": "DT",
+      "airline": "TAAG Angola Airlines",
+      "country": "Angola"
+    },
+    {
+      "mawb": "120",
+      "icao": "KOR",
+      "iata": "JS",
+      "airline": "Air Koryo",
+      "country": "North Korea"
+    },
+    {
+      "mawb": "122",
+      "icao": "LOG",
+      "iata": "LC",
+      "airline": "Loganair",
+      "country": "United Kingdom"
+    },
+    {
+      "mawb": "124",
+      "icao": "DAH",
+      "iata": "AH",
+      "airline": "Air Algerie",
+      "country": "Algeria"
+    },
+    {
+      "mawb": "126",
+      "icao": "GIA",
+      "iata": "GA",
+      "airline": "Garuda Indonesia",
+      "country": "Indonesia"
+    },
+    {
+      "mawb": "128",
+      "icao": "AVE",
+      "iata": "VE",
+      "airline": "Avensa",
+      "country": "Venezuela"
+    },
+    {
+      "mawb": "130",
+      "icao": "UKA",
+      "iata": "UK",
+      "airline": "KLCuk",
+      "country": "United Kingdom"
+    },
+    {
+      "mawb": "132",
+      "icao": "MXA",
+      "iata": "MX",
+      "airline": "Mexicana de Aviación",
+      "country": "Mexico"
+    },
+    {
+      "mawb": "134",
+      "icao": "AVA",
+      "iata": "AV",
+      "airline": "Avianca",
+      "country": "Colombia"
+    },
+    {
+      "mawb": "136",
+      "icao": "CUB",
+      "iata": "CU",
+      "airline": "Cubana",
+      "country": "Caribbean Area, Cuba"
+    },
+    {
+      "mawb": "137",
+      "icao": "HFL",
+      "airline": "Hanseflug",
+      "country": "Germany"
+    },
+    {
+      "mawb": "140",
+      "icao": "LIA",
+      "iata": "LI",
+      "airline": "LIAT (1974)",
+      "country": "Caribbean Area, Antigua & Barbuda"
+    },
+    {
+      "mawb": "142",
+      "icao": "BLF",
+      "iata": "KF",
+      "airline": "Blue1",
+      "country": "Finland"
+    },
+    {
+      "mawb": "144",
+      "icao": "RTM",
+      "iata": "7T",
+      "airline": "Trans Am",
+      "country": "Ecuador"
+    },
+    {
+      "mawb": "146",
+      "icao": "CCM",
+      "iata": "XK",
+      "airline": "CCM Airlines",
+      "country": "France"
+    },
+    {
+      "mawb": "148",
+      "icao": "LAA",
+      "iata": "LN",
+      "airline": "Libyan Airlines",
+      "country": "Libya"
+    },
+    {
+      "mawb": "150",
+      "icao": "TUI",
+      "iata": "UG",
+      "airline": "Tuninter",
+      "country": "Tunisia"
+    },
+    {
+      "mawb": "152",
+      "icao": "LAV",
+      "iata": "VH",
+      "airline": "Aeropostal Alas de Venezuela",
+      "country": "Venezuela"
+    },
+    {
+      "mawb": "155",
+      "icao": "DHX",
+      "iata": "ES",
+      "airline": "DHL/SNAS",
+      "country": "Bahrain"
+    },
+    {
+      "mawb": "157",
+      "icao": "QTR",
+      "iata": "QR",
+      "airline": "Qatar Airways Cargo",
+      "country": "Qatar"
+    },
+    {
+      "mawb": "160",
+      "icao": "CPA",
+      "iata": "CX",
+      "airline": "Cathay Pacific Airways",
+      "country": "Hong Kong"
+    },
+    {
+      "mawb": "162",
+      "icao": "PAO",
+      "iata": "PH",
+      "airline": "Polynesian Airlines",
+      "country": "Pacific Islands, Samoa"
+    },
+    {
+      "mawb": "165",
+      "icao": "ADR",
+      "iata": "JP",
+      "airline": "Adria Airways",
+      "country": "Slovenia"
+    },
+    {
+      "mawb": "168",
+      "icao": "AZW",
+      "iata": "UM",
+      "airline": "Air Zimbabwe",
+      "country": "Zimbabwe"
+    },
+    {
+      "mawb": "170",
+      "icao": "TNA",
+      "iata": "GE",
+      "airline": "Transasia Airways",
+      "country": "Taiwan ROC"
+    },
+    {
+      "mawb": "172",
+      "icao": "CLX",
+      "iata": "CV",
+      "airline": "Cargolux Airlines",
+      "country": "Luxembourg"
+    },
+    {
+      "mawb": "174",
+      "icao": "MRT",
+      "iata": "MR",
+      "airline": "Air Mauritanie",
+      "country": "Mauritania"
+    },
+    {
+      "mawb": "176",
+      "icao": "UAE",
+      "iata": "EK",
+      "airline": "Emirates SkyCargo",
+      "country": "United Arab Emirates, Dubai"
+    },
+    {
+      "mawb": "181",
+      "icao": "UDN",
+      "iata": "Z6",
+      "airline": "Dniproavia",
+      "country": "Ukraine"
+    },
+    {
+      "mawb": "183",
+      "icao": "VLO",
+      "iata": "LC",
+      "airline": "VarigLog",
+      "country": "Brazil"
+    },
+    {
+      "mawb": "186",
+      "icao": "NMB",
+      "iata": "SW",
+      "airline": "Air Namibia",
+      "country": "Namibia"
+    },
+    {
+      "mawb": "188",
+      "icao": "AAQ",
+      "iata": "3J",
+      "airline": "Air Alliance Inc",
+      "country": "Canada"
+    },
+    {
+      "mawb": "190",
+      "icao": "TPC",
+      "iata": "TY",
+      "airline": "Air Caledonie",
+      "country": "France"
+    },
+    {
+      "mawb": "192",
+      "icao": "SLM",
+      "iata": "PY",
+      "airline": "Surinam Airways",
+      "country": "Suriname"
+    },
+    {
+      "mawb": "194",
+      "icao": "SNB",
+      "iata": "NB",
+      "airline": "Sterling",
+      "country": "Denmark"
+    },
+    {
+      "mawb": "196",
+      "icao": "LAZ",
+      "iata": "LZ",
+      "airline": "Balkan Bulgarian Airlines",
+      "country": "Bulgaria"
+    },
+    {
+      "mawb": "198",
+      "icao": "AHG",
+      "iata": "G3",
+      "airline": "Aerochago Airlines",
+      "country": "Caribbean Area, Dominican Republic"
+    },
+    {
+      "mawb": "201",
+      "icao": "AJM",
+      "iata": "JM",
+      "airline": "Air Jamaica",
+      "country": "Caribbean Area, Jamaica"
+    },
+    {
+      "mawb": "203",
+      "icao": "CPI",
+      "iata": "5J",
+      "airline": "Cebu Pacific Air",
+      "country": "Philippines"
+    },
+    {
+      "mawb": "205",
+      "icao": "ANA",
+      "iata": "NH",
+      "airline": "All Nippon Airways",
+      "country": "Japan"
+    },
+    {
+      "mawb": "207",
+      "icao": "AZR",
+      "iata": "QC",
+      "airline": "Air Zaire",
+      "country": "Congo (Democratic Republic)"
+    },
+    {
+      "mawb": "210",
+      "icao": "PLI",
+      "iata": "PL",
+      "airline": "Aeroperu",
+      "country": "Peru"
+    },
+    {
+      "mawb": "212",
+      "icao": "AEU",
+      "iata": "5W",
+      "airline": "Astraeus",
+      "country": "United Kingdom"
+    },
+    {
+      "mawb": "213",
+      "icao": "DSL",
+      "iata": "D8",
+      "airline": "Diamond Sakha Airlines",
+      "country": "Russia"
+    },
+    {
+      "mawb": "215",
+      "icao": "ESL",
+      "iata": "P7",
+      "airline": "Russian Sky Airlines",
+      "country": "Russia"
+    },
+    {
+      "mawb": "217",
+      "icao": "THA",
+      "iata": "TG",
+      "airline": "THAI Cargo",
+      "country": "Thailand"
+    },
+    {
+      "mawb": "219",
+      "icao": "CRQ",
+      "iata": "YN",
+      "airline": "Air Creebec",
+      "country": "Canada"
+    },
+    {
+      "mawb": "221",
+      "icao": "TXC",
+      "iata": "AL",
+      "airline": "Transaviaexport Airlines",
+      "country": "Belarus"
+    },
+    {
+      "mawb": "225",
+      "icao": "JND",
+      "iata": "K5",
+      "airline": "Air East Africa",
+      "country": "Kenya"
+    },
+    {
+      "mawb": "227",
+      "icao": "TWE",
+      "iata": "TQ",
+      "airline": "Transwede Airways AB",
+      "country": "Sweden"
+    },
+    {
+      "mawb": "229",
+      "icao": "KAC",
+      "iata": "KU",
+      "airline": "Kuwait Airways",
+      "country": "Kuwait"
+    },
+    {
+      "mawb": "231",
+      "icao": "LDA",
+      "iata": "NG",
+      "airline": "Lauda Air",
+      "country": "Austria"
+    },
+    {
+      "mawb": "234",
+      "icao": "JAS",
+      "iata": "JD",
+      "airline": "Japan Air System",
+      "country": "Japan"
+    },
+    {
+      "mawb": "236",
+      "icao": "BMA",
+      "iata": "BD",
+      "airline": "bmi Cargo",
+      "country": "United Kingdom"
+    },
+    {
+      "mawb": "239",
+      "icao": "MAU",
+      "iata": "MK",
+      "airline": "Air Mauritius",
+      "country": "Mauritius"
+    },
+    {
+      "mawb": "242",
+      "icao": "SWD",
+      "iata": "A4",
+      "airline": "Southern Winds",
+      "country": "Argentina"
+    },
+    {
+      "mawb": "245",
+      "icao": "FAB",
+      "iata": "7F",
+      "airline": "First Air",
+      "country": "Canada"
+    },
+    {
+      "mawb": "246",
+      "icao": "TIS",
+      "iata": "UZ",
+      "airline": "Tesis Aviation Enterprise",
+      "country": "Russia"
+    },
+    {
+      "mawb": "247",
+      "iata": "LF",
+      "airline": "Linjeflyg",
+      "country": "Sweden"
+    },
+    {
+      "mawb": "249",
+      "icao": "BBR",
+      "iata": "S3",
+      "airline": "SBA Airlines",
+      "country": "Venezuela"
+    },
+    {
+      "mawb": "251",
+      "icao": "RUS",
+      "iata": "C9",
+      "airline": "Cirrus Airlines",
+      "country": "Germany"
+    },
+    {
+      "mawb": "253",
+      "icao": "OAA",
+      "iata": "VQ",
+      "airline": "Impulse Airlines",
+      "country": "Australia"
+    },
+    {
+      "mawb": "255",
+      "icao": "AFG",
+      "iata": "FG",
+      "airline": "Ariana Afghan Airlines",
+      "country": "Afghanistan"
+    },
+    {
+      "mawb": "258",
+      "icao": "MDG",
+      "iata": "MD",
+      "airline": "Air Madagascar",
+      "country": "Madagascar"
+    },
+    {
+      "mawb": "262",
+      "icao": "SVR",
+      "iata": "U6",
+      "airline": "Ural Airlines",
+      "country": "Russia"
+    },
+    {
+      "mawb": "264",
+      "icao": "NES",
+      "iata": "JH",
+      "airline": "Nordeste-Linhas Aereas Regionais",
+      "country": "Brazil"
+    },
+    {
+      "mawb": "266",
+      "icao": "TFL",
+      "iata": "OR",
+      "airline": "Arkefly",
+      "country": "Netherlands"
+    },
+    {
+      "mawb": "268",
+      "icao": "AAY",
+      "iata": "G4",
+      "airline": "Allegiant Air",
+      "country": "United States"
+    },
+    {
+      "mawb": "270",
+      "icao": "TMA",
+      "iata": "TL",
+      "airline": "Trans Mediterranean Airways",
+      "country": "Lebanon"
+    },
+    {
+      "mawb": "272",
+      "icao": "CKS",
+      "iata": "K4",
+      "airline": "Kalitta Air",
+      "country": "United States"
+    },
+    {
+      "mawb": "275",
+      "icao": "ASU",
+      "iata": "5L",
+      "airline": "Aerosur",
+      "country": "Bolivia"
+    },
+    {
+      "mawb": "277",
+      "icao": "VLK",
+      "iata": "XF",
+      "airline": "Vladivostok Air",
+      "country": "Russia"
+    },
+    {
+      "mawb": "279",
+      "icao": "ITF",
+      "iata": "IT",
+      "airline": "Air Inter",
+      "country": "France"
+    },
+    {
+      "mawb": "282",
+      "icao": "ISV",
+      "iata": "WC",
+      "airline": "Islena Airlines",
+      "country": "Honduras"
+    },
+    {
+      "mawb": "284",
+      "icao": "TCG",
+      "iata": "T2",
+      "airline": "Thai Air Cargo",
+      "country": "Thailand"
+    },
+    {
+      "mawb": "286",
+      "icao": "PUA",
+      "iata": "PU",
+      "airline": "PLUNA",
+      "country": "Uruguay"
+    },
+    {
+      "mawb": "288",
+      "icao": "AHK",
+      "iata": "LD",
+      "airline": "Air Hong Kong",
+      "country": "Hong Kong"
+    },
+    {
+      "mawb": "290",
+      "icao": "BBD",
+      "iata": "BF",
+      "airline": "Bluebird Cargo",
+      "country": "Iceland"
+    },
+    {
+      "mawb": "292",
+      "icao": "AFM",
+      "iata": "ZL",
+      "airline": "Affretair",
+      "country": "Zimbabwe"
+    },
+    {
+      "mawb": "295",
+      "icao": "WIA",
+      "iata": "WM",
+      "airline": "Windward Island Airways",
+      "country": "Caribbean Area, Curaçao"
+    },
+    {
+      "mawb": "297",
+      "icao": "CAL",
+      "iata": "CI",
+      "airline": "China Airlines",
+      "country": "Taiwan ROC"
+    },
+    {
+      "mawb": "301",
+      "icao": "GAK",
+      "iata": "5S",
+      "airline": "Global Aviation and Services",
+      "country": "Libya"
+    },
+    {
+      "mawb": "303",
+      "icao": "AWI",
+      "iata": "ZW",
+      "airline": "Air Wisconsin Airlines",
+      "country": "United States"
+    },
+    {
+      "mawb": "306",
+      "icao": "KAP",
+      "iata": "9K",
+      "airline": "Cape Air",
+      "country": "United States"
+    },
+    {
+      "mawb": "311",
+      "icao": "VGD",
+      "airline": "Vanguard Airlines",
+      "country": "United States"
+    },
+    {
+      "mawb": "316",
+      "icao": "AUL",
+      "iata": "5N",
+      "airline": "Aeroflot-Nord",
+      "country": "Russia"
+    },
+    {
+      "mawb": "318",
+      "icao": "ABD",
+      "iata": "CC",
+      "airline": "Air Atlanta Icelandic",
+      "country": "Iceland"
+    },
+    {
+      "mawb": "321",
+      "iata": "QP",
+      "airline": "Starlight Airlines",
+      "country": "United Arab Emirates, Dubai"
+    },
+    {
+      "mawb": "325",
+      "icao": "PLR",
+      "iata": "J3",
+      "airline": "Northwestern Air Lease",
+      "country": "Canada"
+    },
+    {
+      "mawb": "329",
+      "icao": "PEM",
+      "iata": "PD",
+      "airline": "Pemair",
+      "country": "Canada"
+    },
+    {
+      "mawb": "331",
+      "icao": "RZO",
+      "iata": "S4",
+      "airline": "SATA International",
+      "country": "Azores"
+    },
+    {
+      "mawb": "333",
+      "icao": "GOE",
+      "iata": "GO",
+      "airline": "GO",
+      "country": "United Kingdom"
+    },
+    {
+      "mawb": "336",
+      "icao": "AAG",
+      "iata": "7M",
+      "airline": "Air Atlantique",
+      "country": "United Kingdom"
+    },
+    {
+      "mawb": "338",
+      "icao": "RVV",
+      "iata": "RV",
+      "airline": "Reeve Aleutian Airways",
+      "country": "United States"
+    },
+    {
+      "mawb": "340",
+      "icao": "FBF",
+      "iata": "FB",
+      "airline": "Fine Air Services",
+      "country": "United States"
+    },
+    {
+      "mawb": "342",
+      "icao": "POT",
+      "iata": "YQ",
+      "airline": "Polet Cargo Airlines",
+      "country": "Cyprus"
+    },
+    {
+      "mawb": "344",
+      "icao": "LYC",
+      "iata": "L2",
+      "airline": "Lynden Air Cargo",
+      "country": "United States"
+    },
+    {
+      "mawb": "346",
+      "icao": "VAP",
+      "iata": "9R",
+      "airline": "Phuket Airlines",
+      "country": "Thailand"
+    },
+    {
+      "mawb": "350",
+      "icao": "MVR",
+      "iata": "6M",
+      "airline": "Maverick Airways",
+      "country": "United States"
+    },
+    {
+      "mawb": "353",
+      "icao": "JTA",
+      "iata": "NU",
+      "airline": "Japan TransOcean Air",
+      "country": "Japan"
+    },
+    {
+      "mawb": "355",
+      "icao": "ESF",
+      "iata": "E7",
+      "airline": "Estafeta Carga Aerea",
+      "country": "Mexico"
+    },
+    {
+      "mawb": "357",
+      "icao": "GAA",
+      "iata": "HL",
+      "airline": "Business Express (Delta Connection)",
+      "country": "United States"
+    },
+    {
+      "mawb": "359",
+      "icao": "URN",
+      "iata": "3T",
+      "airline": "Turan Air",
+      "country": "Azerbaijan"
+    },
+    {
+      "mawb": "363",
+      "icao": "CHQ",
+      "iata": "US",
+      "airline": "Chautauqua Airlines",
+      "country": "United States"
+    },
+    {
+      "mawb": "367",
+      "icao": "MAK",
+      "iata": "IN",
+      "airline": "Macedonian Airlines-MAT",
+      "country": "Macedonia"
+    },
+    {
+      "mawb": "372",
+      "icao": "LDI",
+      "iata": "L4",
+      "airline": "Lauda Air Italy",
+      "country": "Italy"
+    },
+    {
+      "mawb": "374",
+      "icao": "MCK",
+      "iata": "CC",
+      "airline": "MacAir Airlines",
+      "country": "Australia"
+    },
+    {
+      "mawb": "376",
+      "icao": "BET",
+      "airline": "BETA Cargo - Brasilian Express Transportes Aéreos",
+      "country": "Brazil"
+    },
+    {
+      "mawb": "379",
+      "icao": "LBY",
+      "iata": "LZ",
+      "airline": "Belle Air",
+      "country": "Albania"
+    },
+    {
+      "mawb": "383",
+      "icao": "RNL",
+      "iata": "QL",
+      "airline": "Aero Lanka",
+      "country": "Sri Lanka"
+    },
+    {
+      "mawb": "385",
+      "icao": "LKR",
+      "iata": "6F",
+      "airline": "Laker Airways",
+      "country": "United States"
+    },
+    {
+      "mawb": "386",
+      "icao": "MXJ",
+      "iata": "MY",
+      "airline": "Maxjet Airways",
+      "country": "United States"
+    },
+    {
+      "mawb": "390",
+      "icao": "AEE",
+      "iata": "A3",
+      "airline": "Aegean Airlines",
+      "country": "Greece"
+    },
+    {
+      "mawb": "394",
+      "icao": "DJA",
+      "iata": "HO",
+      "airline": "Antinea Airlines",
+      "country": "United Kingdom"
+    },
+    {
+      "mawb": "401",
+      "icao": "AWE",
+      "iata": "HP",
+      "airline": "America West Airlines",
+      "country": "United States"
+    },
+    {
+      "mawb": "405",
+      "icao": "SCH",
+      "iata": "AW",
+      "airline": "Schreiner Airways",
+      "country": "Netherlands"
+    },
+    {
+      "mawb": "407",
+      "icao": "SNG",
+      "iata": "V7",
+      "airline": "Air Senegal International",
+      "country": "Senegal"
+    },
+    {
+      "mawb": "409",
+      "icao": "MGX",
+      "iata": "YM",
+      "airline": "Montenegro Airlines",
+      "country": "Serbia"
+    },
+    {
+      "mawb": "412",
+      "icao": "VDA",
+      "iata": "VI",
+      "airline": "Volga-Dnepr Airlines",
+      "country": "Russia"
+    },
+    {
+      "mawb": "416",
+      "icao": "NCR",
+      "iata": "N8",
+      "airline": "National Airlines",
+      "country": "United States"
+    },
+    {
+      "mawb": "420",
+      "icao": "IKA",
+      "iata": "GI",
+      "airline": "Itek Air",
+      "country": "Kyrgyzstan"
+    },
+    {
+      "mawb": "423",
+      "icao": "BCS",
+      "iata": "QY",
+      "airline": "European Air Transport",
+      "country": "Belgium"
+    },
+    {
+      "mawb": "425",
+      "icao": "MTW",
+      "iata": "YD",
+      "airline": "Mauritania Airways",
+      "country": "Mauritania"
+    },
+    {
+      "mawb": "427",
+      "icao": "FWI",
+      "iata": "TX",
+      "airline": "Air Caraibes",
+      "country": "Caribbean Area, Guadaloupe"
+    },
+    {
+      "mawb": "429",
+      "icao": "RDN",
+      "iata": "D7",
+      "airline": "Dinar Lineas Aereas",
+      "country": "Argentina"
+    },
+    {
+      "mawb": "435",
+      "iata": "3X",
+      "airline": "Premier Trans Aire",
+      "country": "United States"
+    },
+    {
+      "mawb": "438",
+      "icao": "SHY",
+      "airline": "Sky Airlines",
+      "country": "Turkey"
+    },
+    {
+      "mawb": "442",
+      "icao": "FIF",
+      "iata": "OF",
+      "airline": "Air Finland",
+      "country": "Finland"
+    },
+    {
+      "mawb": "445",
+      "icao": "NZM",
+      "iata": "NM",
+      "airline": "Mount Cook",
+      "country": "New Zealand"
+    },
+    {
+      "mawb": "450",
+      "icao": "RLC",
+      "airline": "Avial Air Company",
+      "country": "Russia"
+    },
+    {
+      "mawb": "453",
+      "icao": "MEP",
+      "iata": "YX",
+      "airline": "Midwest Airlines",
+      "country": "United States"
+    },
+    {
+      "mawb": "455",
+      "icao": "NAO",
+      "iata": "XG",
+      "airline": "North American Airlines",
+      "country": "United States"
+    },
+    {
+      "mawb": "459",
+      "icao": "RWD",
+      "iata": "WB",
+      "airline": "Rwandair Express",
+      "country": "Rwanda"
+    },
+    {
+      "mawb": "463",
+      "icao": "AZQ",
+      "iata": "ZP",
+      "airline": "Silk Way Airlines",
+      "country": "Azerbaijan"
+    },
+    {
+      "mawb": "465",
+      "icao": "KZR",
+      "iata": "KC",
+      "airline": "Air Astana",
+      "country": "Kazakhstan"
+    },
+    {
+      "mawb": "467",
+      "icao": "EZE",
+      "iata": "T3",
+      "airline": "Eastern Airways",
+      "country": "United Kingdom"
+    },
+    {
+      "mawb": "469",
+      "icao": "DSM",
+      "iata": "4M",
+      "airline": "LAN Argentina",
+      "country": "Argentina"
+    },
+    {
+      "mawb": "471",
+      "icao": "AMW",
+      "iata": "ZV",
+      "airline": "Air Midwest",
+      "country": "United States"
+    },
+    {
+      "mawb": "474",
+      "icao": "IBB",
+      "iata": "NT",
+      "airline": "Binter Canarias",
+      "country": "Canary Islands"
+    },
+    {
+      "mawb": "477",
+      "icao": "BTA",
+      "iata": "XE",
+      "airline": "ExpressJet",
+      "country": "United States"
+    },
+    {
+      "mawb": "479",
+      "icao": "CSZ",
+      "iata": "ZH",
+      "airline": "Shenzhen Airlines",
+      "country": "China PRC"
+    },
+    {
+      "mawb": "481",
+      "icao": "QXE",
+      "iata": "QX",
+      "airline": "Horizon Air",
+      "country": "United States"
+    },
+    {
+      "mawb": "484",
+      "icao": "ABQ",
+      "iata": "ED",
+      "airline": "Airblue",
+      "country": "Pakistan"
+    },
+    {
+      "mawb": "487",
+      "icao": "NKS",
+      "iata": "NK",
+      "airline": "Spirit Airlines",
+      "country": "United States"
+    },
+    {
+      "mawb": "489",
+      "icao": "CJT",
+      "iata": "W8",
+      "airline": "Cargojet Airways",
+      "country": "Canada"
+    },
+    {
+      "mawb": "495",
+      "icao": "HAR",
+      "airline": "Harbour Airlines",
+      "country": "United States"
+    },
+    {
+      "mawb": "499",
+      "icao": "KJC",
+      "iata": "7B",
+      "airline": "KrasAir",
+      "country": "Russia"
+    },
+    {
+      "mawb": "501",
+      "icao": "AKT",
+      "iata": "V2",
+      "airline": "Karat",
+      "country": "Russia"
+    },
+    {
+      "mawb": "503",
+      "icao": "LRS",
+      "iata": "RZ",
+      "airline": "SANSA Servicios Aereos Nacionales",
+      "country": "Costa Rica"
+    },
+    {
+      "mawb": "509",
+      "icao": "RZL",
+      "iata": "Z9",
+      "airline": "Aero Zambia",
+      "country": "South Africa"
+    },
+    {
+      "mawb": "511",
+      "icao": "LLM",
+      "iata": "YL",
+      "airline": "Yamal Airlines",
+      "country": "Russia"
+    },
+    {
+      "mawb": "513",
+      "icao": "MKA",
+      "iata": "7G",
+      "airline": "MK Airlines",
+      "country": "United Kingdom"
+    },
+    {
+      "mawb": "515",
+      "icao": "DTH",
+      "iata": "SF",
+      "airline": "Tassili Airlines",
+      "country": "Algeria"
+    },
+    {
+      "mawb": "517",
+      "icao": "FTA",
+      "iata": "2F",
+      "airline": "Frontier Flying Service",
+      "country": "United States"
+    },
+    {
+      "mawb": "519",
+      "icao": "MLA",
+      "iata": "Q5",
+      "airline": "40 Mile Air",
+      "country": "United States"
+    },
+    {
+      "mawb": "524",
+      "icao": "XME",
+      "iata": "XM",
+      "airline": "Australian Air Express",
+      "country": "Australia"
+    },
+    {
+      "mawb": "526",
+      "icao": "SWA",
+      "iata": "WN",
+      "airline": "Southwest Airlines",
+      "country": "United States"
+    },
+    {
+      "mawb": "528",
+      "icao": "EAV",
+      "iata": "ZN",
+      "airline": "Eagle Airlines",
+      "country": "Austria"
+    },
+    {
+      "mawb": "530",
+      "icao": "TPU",
+      "iata": "T0",
+      "airline": "TACA Peru",
+      "country": "Peru"
+    },
+    {
+      "mawb": "533",
+      "icao": "ASH",
+      "iata": "YV",
+      "airline": "Mesa Airlines",
+      "country": "United States"
+    },
+    {
+      "mawb": "536",
+      "icao": "STY",
+      "iata": "Z2",
+      "airline": "Styrian Airlines",
+      "country": "Austria"
+    },
+    {
+      "mawb": "538",
+      "icao": "KIA",
+      "iata": "KP",
+      "airline": "Kiwi International Airlines",
+      "country": "United States"
+    },
+    {
+      "mawb": "540",
+      "icao": "PSD",
+      "iata": "TO",
+      "airline": "President Airlines",
+      "country": "Cambodia"
+    },
+    {
+      "mawb": "542",
+      "icao": "TUA",
+      "iata": "T5",
+      "airline": "Turkmenistan Airlines",
+      "country": "Turkmenistan"
+    },
+    {
+      "mawb": "544",
+      "icao": "LPE",
+      "iata": "LP",
+      "airline": "Lan Peru",
+      "country": "Peru"
+    },
+    {
+      "mawb": "546",
+      "icao": "AAW",
+      "iata": "8U",
+      "airline": "Afriqiyah Airways",
+      "country": "Libya"
+    },
+    {
+      "mawb": "549",
+      "icao": "TUS",
+      "iata": "M3",
+      "airline": "ABSA Cargo Airline",
+      "country": "Brazil"
+    },
+    {
+      "mawb": "551",
+      "icao": "SFB",
+      "iata": "CT",
+      "airline": "Air Sofia",
+      "country": "Bulgaria"
+    },
+    {
+      "mawb": "555",
+      "icao": "AFL",
+      "iata": "SU",
+      "airline": "Aeroflot-Russian Airlines",
+      "country": "Russia"
+    },
+    {
+      "mawb": "557",
+      "icao": "KRS",
+      "iata": "6K",
+      "airline": "Korsar Airlines",
+      "country": "Russia"
+    },
+    {
+      "mawb": "560",
+      "icao": "KHB",
+      "iata": "H8",
+      "airline": "Dalavia",
+      "country": "Russia"
+    },
+    {
+      "mawb": "564",
+      "icao": "SXS",
+      "iata": "XQ",
+      "airline": "SunExpress",
+      "country": "Turkey"
+    },
+    {
+      "mawb": "567",
+      "icao": "NTW",
+      "iata": "CE",
+      "airline": "Nationwide Air",
+      "country": "South Africa"
+    },
+    {
+      "mawb": "569",
+      "icao": "LBH",
+      "iata": "7Z",
+      "airline": "Laker Bahamas",
+      "country": "United States"
+    },
+    {
+      "mawb": "573",
+      "icao": "GJS",
+      "iata": "G7",
+      "airline": "GoJet Airlines",
+      "country": "United States"
+    },
+    {
+      "mawb": "575",
+      "icao": "COY",
+      "iata": "7C",
+      "airline": "Coyne Airways",
+      "country": "United Kingdom"
+    },
+    {
+      "mawb": "580",
+      "icao": "ABW",
+      "iata": "RU",
+      "airline": "AirBridgeCargo Airlines",
+      "country": "Russia"
+    },
+    {
+      "mawb": "584",
+      "icao": "OAU",
+      "airline": "Oriol Avia Soviet Austrian",
+      "country": "Russia"
+    },
+    {
+      "mawb": "589",
+      "icao": "JAI",
+      "iata": "9W",
+      "airline": "Jet Airways",
+      "country": "India"
+    },
+    {
+      "mawb": "592",
+      "icao": "CYH",
+      "iata": "3Q",
+      "airline": "Yunnan Airlines",
+      "country": "China PRC"
+    },
+    {
+      "mawb": "594",
+      "icao": "RWG",
+      "iata": "RX",
+      "airline": "Redwing Airways",
+      "country": "United States"
+    },
+    {
+      "mawb": "596",
+      "icao": "CMI",
+      "iata": "CS",
+      "airline": "Continental Micronesia",
+      "country": "Pacific Islands, Guam"
+    },
+    {
+      "mawb": "598",
+      "icao": "SHU",
+      "iata": "HZ",
+      "airline": "SAT Airlines",
+      "country": "Russia"
+    },
+    {
+      "mawb": "601",
+      "icao": "CVC",
+      "iata": "J7",
+      "airline": "Centre-Avia Airlines",
+      "country": "Russia"
+    },
+    {
+      "mawb": "603",
+      "icao": "ALK",
+      "iata": "UL",
+      "airline": "SriLankan Airlines",
+      "country": "Sri Lanka"
+    },
+    {
+      "mawb": "606",
+      "icao": "MTQ",
+      "iata": "NN",
+      "airline": "Air Martinique",
+      "country": "Caribbean Area, Martinique"
+    },
+    {
+      "mawb": "607",
+      "icao": "ETD",
+      "iata": "EY",
+      "airline": "Etihad Crystal Cargo",
+      "country": "United Arab Emirates, Abu Dhabi"
+    },
+    {
+      "mawb": "610",
+      "icao": "KKK",
+      "iata": "KK",
+      "airline": "Atlasjet",
+      "country": "Turkey"
+    },
+    {
+      "mawb": "613",
+      "icao": "JBA",
+      "iata": "JB",
+      "airline": "Helijet Airways",
+      "country": "Canada"
+    },
+    {
+      "mawb": "614",
+      "icao": "IRT",
+      "iata": "IQ",
+      "airline": "Interot Airways",
+      "country": "Germany"
+    },
+    {
+      "mawb": "617",
+      "icao": "HLF",
+      "iata": "HF",
+      "airline": "TUIfly",
+      "country": "Germany"
+    },
+    {
+      "mawb": "620",
+      "icao": "BDA",
+      "iata": "BZ",
+      "airline": "Blue Dart Aviation",
+      "country": "India"
+    },
+    {
+      "mawb": "622",
+      "icao": "CAV",
+      "iata": "MO",
+      "airline": "Calm Air International ltd",
+      "country": "Canada"
+    },
+    {
+      "mawb": "624",
+      "icao": "PGT",
+      "iata": "H9",
+      "airline": "Pegasus",
+      "country": "Turkey"
+    },
+    {
+      "mawb": "627",
+      "icao": "LAO",
+      "iata": "QV",
+      "airline": "Lao Airlines",
+      "country": "Laos"
+    },
+    {
+      "mawb": "629",
+      "icao": "SLK",
+      "iata": "MI",
+      "airline": "SilkAir",
+      "country": "Singapore"
+    },
+    {
+      "mawb": "631",
+      "icao": "GRL",
+      "iata": "GL",
+      "airline": "Air Greenland",
+      "country": "Greenland"
+    },
+    {
+      "mawb": "633",
+      "icao": "AEF",
+      "iata": "YP",
+      "airline": "Aero Lloyd",
+      "country": "Germany"
+    },
+    {
+      "mawb": "635",
+      "icao": "IYE",
+      "iata": "IY",
+      "airline": "Yemenia Airways",
+      "country": "Yemen"
+    },
+    {
+      "mawb": "637",
+      "icao": "ERT",
+      "iata": "B8",
+      "airline": "Eritrean Airlines",
+      "country": "Eritrea"
+    },
+    {
+      "mawb": "640",
+      "icao": "SFR",
+      "iata": "FA",
+      "airline": "Safair",
+      "country": "South Africa"
+    },
+    {
+      "mawb": "643",
+      "icao": "AMC",
+      "iata": "KM",
+      "airline": "Air Malta",
+      "country": "Malta"
+    },
+    {
+      "mawb": "646",
+      "icao": "MIN",
+      "iata": "IW",
+      "airline": "AOM-Minerve",
+      "country": "France"
+    },
+    {
+      "mawb": "648",
+      "icao": "AIN",
+      "airline": "African International Airways",
+      "country": "South Africa"
+    },
+    {
+      "mawb": "651",
+      "icao": "CXJ",
+      "iata": "XO",
+      "airline": "Xinjiang Airlines",
+      "country": "China PRC"
+    },
+    {
+      "mawb": "654",
+      "icao": "ODS",
+      "iata": "5K",
+      "airline": "State Air Company Odessa Airlines",
+      "country": "Ukraine"
+    },
+    {
+      "mawb": "657",
+      "icao": "BTI",
+      "iata": "BT",
+      "airline": "Air Baltic",
+      "country": "Latvia"
+    },
+    {
+      "mawb": "658",
+      "icao": "MMX",
+      "iata": "M8",
+      "airline": "AirMax Cargo",
+      "country": "Peru"
+    },
+    {
+      "mawb": "660",
+      "icao": "ITM",
+      "iata": "K9",
+      "airline": "Itapemirim Transportes Aereos",
+      "country": "Brazil"
+    },
+    {
+      "mawb": "663",
+      "iata": "EO",
+      "airline": "Demavia Airlines",
+      "country": "Belgium"
+    },
+    {
+      "mawb": "666",
+      "icao": "BOU",
+      "iata": "BO",
+      "airline": "Bouraq Airlines",
+      "country": "Indonesia"
+    },
+    {
+      "mawb": "668",
+      "icao": "NWT",
+      "iata": "NV",
+      "airline": "NWT Air",
+      "country": "Canada"
+    },
+    {
+      "mawb": "670",
+      "icao": "TSO",
+      "iata": "UN",
+      "airline": "Transaero Airlines",
+      "country": "Russia"
+    },
+    {
+      "mawb": "672",
+      "icao": "RBA",
+      "iata": "BI",
+      "airline": "Royal Brunei Airlines",
+      "country": "Brunei"
+    },
+    {
+      "mawb": "674",
+      "icao": "OZW",
+      "iata": "XR",
+      "airline": "Skywest Airlines",
+      "country": "Australia"
+    },
+    {
+      "mawb": "676",
+      "icao": "AFB",
+      "iata": "WK",
+      "airline": "American Falcon",
+      "country": "Argentina"
+    },
+    {
+      "mawb": "679",
+      "icao": "ACY",
+      "iata": "F5",
+      "airline": "Archana Airways",
+      "country": "India"
+    },
+    {
+      "mawb": "681",
+      "icao": "HEJ",
+      "iata": "T4",
+      "airline": "Hellas Jet",
+      "country": "Greece"
+    },
+    {
+      "mawb": "684",
+      "icao": "GEG",
+      "iata": "6R",
+      "airline": "Georgian Airlines",
+      "country": "Georgia"
+    },
+    {
+      "mawb": "686",
+      "icao": "AZM",
+      "airline": "Aero Cozumel",
+      "country": "Mexico"
+    },
+    {
+      "mawb": "688",
+      "icao": "JAA",
+      "iata": "EG",
+      "airline": "Japan Asia Airways",
+      "country": "Japan"
+    },
+    {
+      "mawb": "690",
+      "icao": "SLA",
+      "iata": "LJ",
+      "airline": "Sierra National Airlines",
+      "country": "Sierra Leone"
+    },
+    {
+      "mawb": "692",
+      "icao": "LAP",
+      "iata": "PZ",
+      "airline": "TAM Mercosur",
+      "country": "Paraguay"
+    },
+    {
+      "mawb": "694",
+      "icao": "ANE",
+      "iata": "YW",
+      "airline": "Air Nostrum LAMSA",
+      "country": "Spain"
+    },
+    {
+      "mawb": "698",
+      "icao": "AZX",
+      "iata": "7L",
+      "airline": "AB Airlines Cargo",
+      "country": "United Kingdom"
+    },
+    {
+      "mawb": "701",
+      "icao": "WIF",
+      "iata": "WF",
+      "airline": "Wideroe Cargo",
+      "country": "Norway"
+    },
+    {
+      "mawb": "704",
+      "icao": "OLT",
+      "iata": "OL",
+      "airline": "OLT- Ostfriesische Lufttransport GmbH",
+      "country": "Germany"
+    },
+    {
+      "mawb": "707",
+      "icao": "ASM",
+      "iata": "S6",
+      "airline": "Air St Martin",
+      "country": "Caribbean Area, Guadaloupe"
+    },
+    {
+      "mawb": "709",
+      "icao": "AKK",
+      "iata": "6L",
+      "airline": "Aklak Inc",
+      "country": "Canada"
+    },
+    {
+      "mawb": "713",
+      "icao": "URA",
+      "iata": "U3",
+      "airline": "Uralinteravia",
+      "country": "Russia"
+    },
+    {
+      "mawb": "716",
+      "icao": "MNB",
+      "iata": "MB",
+      "airline": "MNG Airlines",
+      "country": "Turkey"
+    },
+    {
+      "mawb": "719",
+      "icao": "BGL",
+      "iata": "A8",
+      "airline": "Benin Golf Air",
+      "country": "Benin"
+    },
+    {
+      "mawb": "721",
+      "icao": "LAI",
+      "iata": "QL",
+      "airline": "Lesotho Airways",
+      "country": "Lesotho"
+    },
+    {
+      "mawb": "723",
+      "icao": "CBE",
+      "iata": "QA",
+      "airline": "MexicanaClick",
+      "country": "Mexico"
+    },
+    {
+      "mawb": "725",
+      "icao": "ADM",
+      "iata": "YU",
+      "airline": "Aerolineas Dominicanas",
+      "country": "Caribbean Area, Dominican Republic"
+    },
+    {
+      "mawb": "727",
+      "icao": "FTI",
+      "iata": "FT",
+      "airline": "Fly FTI",
+      "country": "United Kingdom"
+    },
+    {
+      "mawb": "729",
+      "icao": "TPA",
+      "iata": "QT",
+      "airline": "Tampa Cargo",
+      "country": "Colombia"
+    },
+    {
+      "mawb": "731",
+      "icao": "CXA",
+      "iata": "MF",
+      "airline": "Xiamen Airlines",
+      "country": "China PRC"
+    },
+    {
+      "mawb": "733",
+      "icao": "DNV",
+      "iata": "D9",
+      "airline": "Donavia",
+      "country": "Russia"
+    },
+    {
+      "mawb": "736",
+      "icao": "KZA",
+      "iata": "K4",
+      "airline": "Kazakhstan Airlines (Kazair)",
+      "country": "Kazakhstan"
+    },
+    {
+      "mawb": "738",
+      "icao": "HVN",
+      "iata": "VN",
+      "airline": "Vietnam Airlines",
+      "country": "Vietnam"
+    },
+    {
+      "mawb": "740",
+      "icao": "SAI",
+      "iata": "NL",
+      "airline": "Shaheen Air International",
+      "country": "Pakistan"
+    },
+    {
+      "mawb": "742",
+      "icao": "ROI",
+      "iata": "9V",
+      "airline": "Avior Airlines",
+      "country": "Venezuela"
+    },
+    {
+      "mawb": "745",
+      "icao": "BER",
+      "iata": "AB",
+      "airline": "Air Berlin",
+      "country": "Germany"
+    },
+    {
+      "mawb": "748",
+      "icao": "HMS",
+      "iata": "DU",
+      "airline": "Hemus Air",
+      "country": "Bulgaria"
+    },
+    {
+      "mawb": "750",
+      "icao": "BZH",
+      "iata": "DB",
+      "airline": "Brit Air",
+      "country": "France"
+    },
+    {
+      "mawb": "752",
+      "icao": "SKX",
+      "iata": "JZ",
+      "airline": "Skyways Express",
+      "country": "Sweden"
+    },
+    {
+      "mawb": "754",
+      "icao": "TOM",
+      "iata": "BY",
+      "airline": "Thomson Airways",
+      "country": "United Kingdom"
+    },
+    {
+      "mawb": "757",
+      "icao": "SMJ",
+      "iata": "Z3",
+      "airline": "Avient Aviation",
+      "country": "United Kingdom"
+    },
+    {
+      "mawb": "759",
+      "icao": "FCN",
+      "iata": "IH",
+      "airline": "Falcon Air",
+      "country": "Sweden"
+    },
+    {
+      "mawb": "762",
+      "icao": "BWL",
+      "iata": "VF",
+      "airline": "British World Airlines",
+      "country": "United Kingdom"
+    },
+    {
+      "mawb": "766",
+      "icao": "TRJ",
+      "iata": "E9",
+      "airline": "AJT Air International",
+      "country": "Russia"
+    },
+    {
+      "mawb": "767",
+      "icao": "FLI",
+      "iata": "RC",
+      "airline": "Atlantic Airways",
+      "country": "Faroe Islands"
+    },
+    {
+      "mawb": "769",
+      "icao": "AAV",
+      "iata": "AK",
+      "airline": "Astro Air",
+      "country": "Philippines"
+    },
+    {
+      "mawb": "774",
+      "icao": "CSH",
+      "iata": "FM",
+      "airline": "Shanghai Airlines",
+      "country": "China PRC"
+    },
+    {
+      "mawb": "778",
+      "icao": "MRS",
+      "iata": "CW",
+      "airline": "Air Marshall Islands",
+      "country": "Pacific Islands, Marshall Islands"
+    },
+    {
+      "mawb": "780",
+      "icao": "IRK",
+      "iata": "Y9",
+      "airline": "Kish Air",
+      "country": "Iran"
+    },
+    {
+      "mawb": "782",
+      "icao": "CBF",
+      "iata": "CJ",
+      "airline": "China Northern Airlines",
+      "country": "China PRC"
+    },
+    {
+      "mawb": "784",
+      "icao": "CSN",
+      "iata": "CZ",
+      "airline": "China Southern Airlines",
+      "country": "China PRC"
+    },
+    {
+      "mawb": "786",
+      "icao": "VGN",
+      "iata": "VK",
+      "airline": "Air Nigeria",
+      "country": "Nigeria"
+    },
+    {
+      "mawb": "789",
+      "icao": "ELG",
+      "iata": "E8",
+      "airline": "ALPI Eagles",
+      "country": "Italy"
+    },
+    {
+      "mawb": "791",
+      "icao": "CFJ",
+      "iata": "IV",
+      "airline": "Fujian Airlines",
+      "country": "China PRC"
+    },
+    {
+      "mawb": "796",
+      "icao": "MUK",
+      "iata": "ZR",
+      "airline": "Muk Air",
+      "country": "Denmark"
+    },
+    {
+      "mawb": "801",
+      "icao": "BVT",
+      "iata": "J8",
+      "airline": "Berjaya Air",
+      "country": "Malaysia"
+    },
+    {
+      "mawb": "803",
+      "icao": "MDA",
+      "iata": "AE",
+      "airline": "Mandarin Airlines",
+      "country": "Taiwan ROC"
+    },
+    {
+      "mawb": "806",
+      "icao": "RSI",
+      "iata": "YI",
+      "airline": "Air Sunshine",
+      "country": "United States"
+    },
+    {
+      "mawb": "808",
+      "icao": "ERH",
+      "iata": "7H",
+      "airline": "Era Aviation (Alaska Airlines Commuter)",
+      "country": "United States"
+    },
+    {
+      "mawb": "810",
+      "icao": "AJT",
+      "iata": "M6",
+      "airline": "Amerijet",
+      "country": "United States"
+    },
+    {
+      "mawb": "813",
+      "icao": "ATN",
+      "iata": "8C",
+      "airline": "Air Transport International",
+      "country": "United States"
+    },
+    {
+      "mawb": "818",
+      "icao": "ISR",
+      "iata": "6H",
+      "airline": "Israir",
+      "country": "Israel"
+    },
+    {
+      "mawb": "821",
+      "icao": "SSR",
+      "iata": "SG",
+      "airline": "Sempati Air",
+      "country": "Indonesia"
+    },
+    {
+      "mawb": "825",
+      "icao": "SHQ",
+      "iata": "F4",
+      "airline": "Shanghai Airlines Cargo",
+      "country": "China PRC"
+    },
+    {
+      "mawb": "827",
+      "icao": "MHS",
+      "airline": "Air Memphis",
+      "country": "Egypt"
+    },
+    {
+      "mawb": "829",
+      "icao": "BKP",
+      "iata": "PG",
+      "airline": "Bangkok Airways",
+      "country": "Thailand"
+    },
+    {
+      "mawb": "832",
+      "icao": "ABX",
+      "iata": "GB",
+      "airline": "ABX Air",
+      "country": "United States"
+    },
+    {
+      "mawb": "836",
+      "icao": "EUL",
+      "iata": "RN",
+      "airline": "Euralair International",
+      "country": "France"
+    },
+    {
+      "mawb": "837",
+      "icao": "KMP",
+      "iata": "E2",
+      "airline": "Kampuchea Airlines",
+      "country": "Cambodia"
+    },
+    {
+      "mawb": "839",
+      "icao": "TLA",
+      "iata": "T7",
+      "airline": "Transaer",
+      "country": "Ireland"
+    },
+    {
+      "mawb": "843",
+      "icao": "KLA",
+      "iata": "TT",
+      "airline": "Air Lithuania",
+      "country": "Lithuania"
+    },
+    {
+      "mawb": "845",
+      "icao": "RPB",
+      "iata": "P5",
+      "airline": "AeroRepublica",
+      "country": "Colombia"
+    },
+    {
+      "mawb": "848",
+      "icao": "HER",
+      "iata": "UD",
+      "airline": "Hex'Air",
+      "country": "France"
+    },
+    {
+      "mawb": "851",
+      "icao": "CRK",
+      "iata": "N8",
+      "airline": "Hong Kong Airlines Ltd",
+      "country": "Hong Kong"
+    },
+    {
+      "mawb": "856",
+      "icao": "APC",
+      "iata": "LQ",
+      "airline": "Airpac Airlines",
+      "country": "United States"
+    },
+    {
+      "mawb": "859",
+      "icao": "SBY",
+      "iata": "FC",
+      "airline": "TAL Thuringia Airlines",
+      "country": "Germany"
+    },
+    {
+      "mawb": "862",
+      "icao": "ASQ",
+      "iata": "EV",
+      "airline": "Atlantic Southeast Airlines",
+      "country": "United States"
+    },
+    {
+      "mawb": "867",
+      "icao": "ADH",
+      "iata": "AP",
+      "airline": "Air One",
+      "country": "Italy"
+    },
+    {
+      "mawb": "870",
+      "icao": "AEW",
+      "iata": "VV",
+      "airline": "AeroSvit Airlines",
+      "country": "Ukraine"
+    },
+    {
+      "mawb": "873",
+      "icao": "TNO",
+      "iata": "6R",
+      "airline": "Aerounion",
+      "country": "Mexico"
+    },
+    {
+      "mawb": "876",
+      "icao": "CSC",
+      "iata": "3U",
+      "airline": "Sichuan Airlines",
+      "country": "China PRC"
+    },
+    {
+      "mawb": "880",
+      "icao": "CHH",
+      "iata": "HU",
+      "airline": "Hainan Airlines",
+      "country": "China PRC"
+    },
+    {
+      "mawb": "882",
+      "icao": "FNA",
+      "iata": "NY",
+      "airline": "Air Iceland",
+      "country": "Iceland"
+    },
+    {
+      "mawb": "885",
+      "icao": "TCX",
+      "iata": "MT",
+      "airline": "Thomas Cook Airlines",
+      "country": "United Kingdom"
+    },
+    {
+      "mawb": "887",
+      "icao": "TLE",
+      "iata": "SH",
+      "airline": "Air Toulouse International",
+      "country": "France"
+    },
+    {
+      "mawb": "891",
+      "icao": "UKR",
+      "iata": "6U",
+      "airline": "Air Ukraine",
+      "country": "Ukraine"
+    },
+    {
+      "mawb": "896",
+      "icao": "BHO",
+      "iata": "B4",
+      "airline": "Bhoja Airlines",
+      "country": "Pakistan"
+    },
+    {
+      "mawb": "898",
+      "icao": "DER",
+      "iata": "DF",
+      "airline": "Deer Jet",
+      "country": "China PRC"
+    },
+    {
+      "mawb": "901",
+      "icao": "BOL",
+      "iata": "B1",
+      "airline": "Transportes Aereos Bolivianos",
+      "country": "Bolivia"
+    },
+    {
+      "mawb": "903",
+      "icao": "ASD",
+      "iata": "4D",
+      "airline": "Air Sinai",
+      "country": "Egypt"
+    },
+    {
+      "mawb": "905",
+      "icao": "PCO",
+      "iata": "8P",
+      "airline": "Pacific Coastal Airlines Limited",
+      "country": "Canada"
+    },
+    {
+      "mawb": "908",
+      "icao": "VAL",
+      "iata": "4V",
+      "airline": "Voyageur Airways",
+      "country": "Canada"
+    },
+    {
+      "mawb": "910",
+      "icao": "OAS",
+      "iata": "WY",
+      "airline": "Oman Air",
+      "country": "Oman"
+    },
+    {
+      "mawb": "913",
+      "icao": "STW",
+      "iata": "Z3",
+      "airline": "Star Airways",
+      "country": "Turkey"
+    },
+    {
+      "mawb": "916",
+      "icao": "MNX",
+      "iata": "BA",
+      "airline": "British Airways CitiExpress",
+      "country": "United Kingdom"
+    },
+    {
+      "mawb": "918",
+      "icao": "CLT",
+      "iata": "XC",
+      "airline": "Air Caribbean",
+      "country": "Caribbean Area, Curaçao"
+    },
+    {
+      "mawb": "921",
+      "icao": "SLL",
+      "iata": "6Q",
+      "airline": "Slovak Airlines",
+      "country": "Slovakia"
+    },
+    {
+      "mawb": "923",
+      "icao": "CRL",
+      "iata": "SS",
+      "airline": "Corsair",
+      "country": "France"
+    },
+    {
+      "mawb": "925",
+      "icao": "VDT",
+      "iata": "PF",
+      "airline": "Vayudoot",
+      "country": "India"
+    },
+    {
+      "mawb": "927",
+      "icao": "LAL",
+      "iata": "WJ",
+      "airline": "Air Labrador",
+      "country": "Canada"
+    },
+    {
+      "mawb": "929",
+      "icao": "ACQ",
+      "iata": "N6",
+      "airline": "Aero Continente",
+      "country": "Peru"
+    },
+    {
+      "mawb": "931",
+      "icao": "MOS",
+      "iata": "MO",
+      "airline": "MISR Overseas Airways",
+      "country": "United Kingdom"
+    },
+    {
+      "mawb": "933",
+      "icao": "NCA",
+      "iata": "KZ",
+      "airline": "Nippon Cargo Airlines",
+      "country": "Japan"
+    },
+    {
+      "mawb": "935",
+      "icao": "ANO",
+      "iata": "TL",
+      "airline": "Airnorth Regional",
+      "country": "Australia"
+    },
+    {
+      "mawb": "937",
+      "icao": "AGU",
+      "iata": "OG",
+      "airline": "Air Guadaloupe",
+      "country": "Caribbean Area, Guadaloupe"
+    },
+    {
+      "mawb": "939",
+      "icao": "SBZ",
+      "iata": "ZM",
+      "airline": "Scibe Airlift",
+      "country": "Congo (Democratic Republic)"
+    },
+    {
+      "mawb": "941",
+      "icao": "NZA",
+      "iata": "ZQ",
+      "airline": "Ansett New Zealand",
+      "country": "New Zealand"
+    },
+    {
+      "mawb": "943",
+      "icao": "VUN",
+      "iata": "VU",
+      "airline": "Air Ivoire",
+      "country": "Ivory Coast"
+    },
+    {
+      "mawb": "947",
+      "icao": "JOS",
+      "iata": "L3",
+      "airline": "DHL de Guatemala",
+      "country": "Guatemala"
+    },
+    {
+      "mawb": "952",
+      "icao": "RSE",
+      "airline": "SNAS Worldwide Express",
+      "country": "Saudi Arabia"
+    },
+    {
+      "mawb": "956",
+      "icao": "RME",
+      "iata": "R3",
+      "airline": "Armenian Airlines",
+      "country": "Armenia"
+    },
+    {
+      "mawb": "958",
+      "icao": "INC",
+      "iata": "7I",
+      "airline": "Insel Air",
+      "country": "Caribbean Area, Curaçao"
+    },
+    {
+      "mawb": "960",
+      "icao": "ELL",
+      "iata": "OV",
+      "airline": "Estonian Air",
+      "country": "Estonia"
+    },
+    {
+      "mawb": "966",
+      "icao": "AUY",
+      "airline": "Aerolineas Uruguayas",
+      "country": "Uruguay"
+    },
+    {
+      "mawb": "971",
+      "icao": "HRH",
+      "iata": "WR",
+      "airline": "Royal Tongan Airlines",
+      "country": "Pacific Islands, Tonga"
+    },
+    {
+      "mawb": "974",
+      "icao": "MON",
+      "iata": "ZB",
+      "airline": "Monarch Airlines",
+      "country": "United Kingdom"
+    },
+    {
+      "mawb": "978",
+      "icao": "VLM",
+      "iata": "VG",
+      "airline": "VLM Airlines",
+      "country": "Belgium"
+    },
+    {
+      "mawb": "980",
+      "icao": "EQL",
+      "iata": "KY",
+      "airline": "Air Sao Tome e Principe",
+      "country": "Sao Tome & Principe"
+    },
+    {
+      "mawb": "983",
+      "icao": "ARN",
+      "iata": "QK",
+      "airline": "Air Nova/Air Canada Regional Airlines",
+      "country": "Canada"
+    },
+    {
+      "mawb": "986",
+      "icao": "FOS",
+      "iata": "VY",
+      "airline": "Formosa Airlines",
+      "country": "Taiwan ROC"
+    },
+    {
+      "mawb": "988",
+      "icao": "AAR",
+      "iata": "OZ",
+      "airline": "Asiana Airlines",
+      "country": "South Korea"
+    },
+    {
+      "mawb": "990",
+      "icao": "HIL",
+      "iata": "HS",
+      "airline": "Highland Air",
+      "country": "Sweden"
+    },
+    {
+      "mawb": "992",
+      "icao": "DAE",
+      "iata": "D5",
+      "airline": "DHL Aero Expreso",
+      "country": "Panama"
+    },
+    {
+      "mawb": "994",
+      "icao": "BUC",
+      "airline": "Bulgarian Air Charter",
+      "country": "Bulgaria"
+    },
+    {
+      "mawb": "996",
+      "icao": "AEA",
+      "iata": "UX",
+      "airline": "Air Europa",
+      "country": "Spain"
+    },
+    {
+      "mawb": "998",
+      "icao": "ERV",
+      "airline": "Yerevan Avia",
+      "country": "Armenia"
+    },
+    {
+      "mawb": "001",
+      "icao": "AAL",
+      "iata": "AA",
+      "airline": "American Airlines Cargo",
+      "country": "United States"
+    },
+    {
+      "mawb": "004",
+      "icao": "BPA",
+      "iata": "BV",
+      "airline": "Blue Panorama Airlines",
+      "country": "Italy"
+    },
+    {
+      "mawb": "006",
+      "icao": "DAL",
+      "iata": "DL",
+      "airline": "Delta Air Lines",
+      "country": "United States"
+    },
+    {
+      "mawb": "010",
+      "icao": "IRP",
+      "iata": "2F",
+      "airline": "Payam Air",
+      "country": "Iran"
+    },
+    {
+      "mawb": "013",
+      "icao": "GBK",
+      "iata": "GY",
+      "airline": "Gabon Airlines",
+      "country": "Gabon"
+    },
+    {
+      "mawb": "016",
+      "icao": "UAL",
+      "iata": "UA",
+      "airline": "United Airlines Cargo",
+      "country": "United States"
+    },
+    {
+      "mawb": "018",
+      "icao": "CDN",
+      "iata": "CP",
+      "airline": "Canadian Airlines International",
+      "country": "Canada"
+    },
+    {
+      "mawb": "020",
+      "icao": "GEC",
+      "iata": "LH",
+      "airline": "Lufthansa Cargo",
+      "country": "Germany"
+    },
+    {
+      "mawb": "022",
+      "icao": "LDE",
+      "iata": "5U",
+      "airline": "Lineas Aereas Del Estado",
+      "country": "Argentina"
+    },
+    {
+      "mawb": "024",
+      "icao": "EAE",
+      "iata": "EA",
+      "airline": "European Air Express",
+      "country": "Germany"
+    },
+    {
+      "mawb": "027",
+      "icao": "ASA",
+      "iata": "AS",
+      "airline": "Alaska Airlines",
+      "country": "United States"
+    },
+    {
+      "mawb": "030",
+      "icao": "TGA",
+      "iata": "YT",
+      "airline": "Air Togo",
+      "country": "Togo"
+    },
+    {
+      "mawb": "032",
+      "icao": "HCY",
+      "iata": "ZU",
+      "airline": "Helios Airways",
+      "country": "United Kingdom"
+    },
+    {
+      "mawb": "034",
+      "icao": "GNR",
+      "iata": "GC",
+      "airline": "Gambia International Airlines",
+      "country": "Gambia"
+    },
+    {
+      "mawb": "036",
+      "icao": "TWN",
+      "iata": "EC",
+      "airline": "Avialeasing",
+      "country": "Uzbekistan"
+    },
+    {
+      "mawb": "038",
+      "icao": "TDM",
+      "iata": "TQ",
+      "airline": "Tandem Aero",
+      "country": "Moldova"
+    },
+    {
+      "mawb": "041",
+      "icao": "JST",
+      "iata": "JQ",
+      "airline": "Jetstar",
+      "country": "Australia"
+    },
+    {
+      "mawb": "043",
+      "icao": "HDA",
+      "iata": "KA",
+      "airline": "Dragonair",
+      "country": "Hong Kong"
+    },
+    {
+      "mawb": "045",
+      "icao": "LAN",
+      "iata": "LA",
+      "airline": "LAN Airlines",
+      "country": "Chile"
+    },
+    {
+      "mawb": "047",
+      "icao": "TAP",
+      "iata": "TP",
+      "airline": "TAP-Air Portugal",
+      "country": "Portugal"
+    },
+    {
+      "mawb": "049",
+      "icao": "BWG",
+      "iata": "QW",
+      "airline": "Blue Wings",
+      "country": "Germany"
+    },
+    {
+      "mawb": "051",
+      "icao": "LLB",
+      "iata": "LB",
+      "airline": "Lloyd Aereo Boliviano (LAB)",
+      "country": "Bolivia"
+    },
+    {
+      "mawb": "053",
+      "icao": "EIN",
+      "iata": "EI",
+      "airline": "Aer Lingus Cargo",
+      "country": "Ireland"
+    },
+    {
+      "mawb": "056",
+      "icao": "YVK",
+      "iata": "YK",
+      "airline": "Cyprus Turkish Airlines",
+      "country": "North Cyprus"
+    },
+    {
+      "mawb": "058",
+      "icao": "IAC",
+      "iata": "IC",
+      "airline": "Indian Airlines",
+      "country": "India"
+    },
+    {
+      "mawb": "061",
+      "icao": "SEY",
+      "iata": "HM",
+      "airline": "Air Seychelles",
+      "country": "Seychelles"
+    },
+    {
+      "mawb": "063",
+      "icao": "ACI",
+      "iata": "SB",
+      "airline": "Air Caledonie International",
+      "country": "Pacific Islands, New Caledonia"
+    },
+    {
+      "mawb": "065",
+      "icao": "SVA",
+      "iata": "SV",
+      "airline": "Saudi Airlines Cargo",
+      "country": "Saudi Arabia"
+    },
+    {
+      "mawb": "068",
+      "icao": "LAM",
+      "iata": "TM",
+      "airline": "LAM-Linhas Aereas de Mozambique",
+      "country": "Mozambique"
+    },
+    {
+      "mawb": "070",
+      "icao": "SYR",
+      "iata": "RB",
+      "airline": "Syrianair",
+      "country": "Syria"
+    },
+    {
+      "mawb": "072",
+      "icao": "GFA",
+      "iata": "GF",
+      "airline": "Gulf Air",
+      "country": "Bahrain"
+    },
+    {
+      "mawb": "074",
+      "icao": "KLM",
+      "iata": "KL",
+      "airline": "KLM Cargo",
+      "country": "Netherlands"
+    },
+    {
+      "mawb": "076",
+      "icao": "MEA",
+      "iata": "ME",
+      "airline": "Middle East Airlines",
+      "country": "Lebanon"
+    },
+    {
+      "mawb": "078",
+      "icao": "SER",
+      "iata": "JR",
+      "airline": "Aero California",
+      "country": "Mexico"
+    },
+    {
+      "mawb": "080",
+      "icao": "LOT",
+      "iata": "LO",
+      "airline": "LOT Polish Airlines",
+      "country": "Poland"
+    },
+    {
+      "mawb": "082",
+      "icao": "BEL",
+      "iata": "SN",
+      "airline": "Brussels Airlines",
+      "country": "Belgium"
+    },
+    {
+      "mawb": "083",
+      "icao": "SAA",
+      "iata": "SA",
+      "airline": "South African Airways Cargo",
+      "country": "South Africa"
+    },
+    {
+      "mawb": "087",
+      "icao": "MXU",
+      "airline": "Maximus Air Cargo",
+      "country": "United Arab Emirates, Abu Dhabi"
+    },
+    {
+      "mawb": "089",
+      "icao": "CQH",
+      "iata": "9S",
+      "airline": "Spring Airlines",
+      "country": "China PRC"
+    },
+    {
+      "mawb": "091",
+      "icao": "FCA",
+      "iata": "DP",
+      "airline": "First Choice Airways",
+      "country": "United Kingdom"
+    },
+    {
+      "mawb": "093",
+      "icao": "KNI",
+      "iata": "KD",
+      "airline": "KD Avia",
+      "country": "Russia"
+    },
+    {
+      "mawb": "095",
+      "icao": "CHP",
+      "iata": "6A",
+      "airline": "AVIACSA- Consorcio Aviaxsa SA de CV",
+      "country": "Mexico"
+    },
+    {
+      "mawb": "097",
+      "icao": "KLN",
+      "iata": "K8",
+      "airline": "Kalingrad Air Enterprise",
+      "country": "Russia"
+    },
+    {
+      "mawb": "099",
+      "icao": "HAS",
+      "iata": "HX",
+      "airline": "Hamburg Airlines",
+      "country": "Germany"
+    },
+    {
+      "mawb": "100",
+      "icao": "JQA",
+      "iata": "JQ",
+      "airline": "Trans Jamaican Airlines",
+      "country": "Caribbean Area, Jamaica"
+    },
+    {
+      "mawb": "104",
+      "icao": "EWG",
+      "iata": "EW",
+      "airline": "Eurowings",
+      "country": "Germany"
+    },
+    {
+      "mawb": "106",
+      "icao": "BWA",
+      "iata": "BW",
+      "airline": "Caribbean Airlines",
+      "country": "Caribbean Area, Trinidad & Tobago"
+    },
+    {
+      "mawb": "108",
+      "icao": "ICE",
+      "iata": "FI",
+      "airline": "Icelandair Cargo",
+      "country": "Iceland"
+    },
+    {
+      "mawb": "110",
+      "icao": "AYC",
+      "iata": "AO",
+      "airline": "Aviaco",
+      "country": "Spain"
+    },
+    {
+      "mawb": "112",
+      "icao": "CKK",
+      "iata": "CK",
+      "airline": "China Cargo Airlines",
+      "country": "China PRC"
+    },
+    {
+      "mawb": "113",
+      "icao": "DOA",
+      "iata": "DO",
+      "airline": "Dominicana de Aviacion",
+      "country": "Caribbean Area, Dominican Republic"
+    },
+    {
+      "mawb": "115",
+      "icao": "JAT",
+      "iata": "JU",
+      "airline": "Air Serbia",
+      "country": "Serbia"
+    },
+    {
+      "mawb": "117",
+      "icao": "SAS",
+      "iata": "SK",
+      "airline": "SAS-Scandinavian Airlines System",
+      "country": "Denmark"
+    },
+    {
+      "mawb": "119",
+      "icao": "ALM",
+      "iata": "LM",
+      "airline": "ALM Airline",
+      "country": "Caribbean Area, Curaçao"
+    },
+    {
+      "mawb": "121",
+      "icao": "ADE",
+      "iata": "ZY",
+      "airline": "Ada Air",
+      "country": "Albania"
+    },
+    {
+      "mawb": "123",
+      "icao": "RON",
+      "iata": "ON",
+      "airline": "Our Airline",
+      "country": "Pacific Islands, Nauru"
+    },
+    {
+      "mawb": "125",
+      "icao": "BAW",
+      "iata": "BA",
+      "airline": "British Airways",
+      "country": "United Kingdom"
+    },
+    {
+      "mawb": "127",
+      "icao": "PRL",
+      "iata": "J5",
+      "airline": "Aviaprima Sochi Airlines",
+      "country": "Russia"
+    },
+    {
+      "mawb": "129",
+      "icao": "MPH",
+      "iata": "MP",
+      "airline": "Martinair",
+      "country": "Netherlands"
+    },
+    {
+      "mawb": "131",
+      "icao": "JAL",
+      "iata": "JL",
+      "airline": "Japan Airlines",
+      "country": "Japan"
+    },
+    {
+      "mawb": "133",
+      "icao": "LRC",
+      "iata": "LR",
+      "airline": "TACA/LACSA-Lineas Aéreas Costarricenses",
+      "country": "Costa Rica"
+    },
+    {
+      "mawb": "135",
+      "icao": "VTA",
+      "iata": "VT",
+      "airline": "Air Tahiti",
+      "country": "Pacific Islands, French Polynesia"
+    },
+    {
+      "mawb": "137",
+      "icao": "AES",
+      "iata": "VX",
+      "airline": "ACES-Aerolineas Central de Colombia",
+      "country": "Colombia"
+    },
+    {
+      "mawb": "139",
+      "icao": "AMX",
+      "iata": "AM",
+      "airline": "Aeromexico",
+      "country": "Mexico"
+    },
+    {
+      "mawb": "141",
+      "icao": "RSN",
+      "iata": "ZC",
+      "airline": "Royal Swazi National Airways",
+      "country": "Swaziland"
+    },
+    {
+      "mawb": "143",
+      "icao": "AUT",
+      "iata": "AU",
+      "airline": "Austral Lineas Aereas",
+      "country": "Argentina"
+    },
+    {
+      "mawb": "145",
+      "icao": "LCO",
+      "iata": "UC",
+      "airline": "LAN Cargo",
+      "country": "Chile"
+    },
+    {
+      "mawb": "147",
+      "icao": "RAM",
+      "iata": "AT",
+      "airline": "Royal Air Maroc",
+      "country": "Morocco"
+    },
+    {
+      "mawb": "149",
+      "icao": "LGL",
+      "iata": "LG",
+      "airline": "Luxair",
+      "country": "Luxembourg"
+    },
+    {
+      "mawb": "151",
+      "icao": "JAV",
+      "iata": "R5",
+      "airline": "Jordan Aviation",
+      "country": "Jordan"
+    },
+    {
+      "mawb": "154",
+      "icao": "CNO",
+      "iata": "SK",
+      "airline": "SAS Norge",
+      "country": "Norway"
+    },
+    {
+      "mawb": "156",
+      "icao": "SET",
+      "iata": "EH",
+      "airline": "SAETA-Soc.Ecuatoriana de Transp.Aereos",
+      "country": "Ecuador"
+    },
+    {
+      "mawb": "158",
+      "icao": "AKC",
+      "iata": "ZU",
+      "airline": "ARCA Aerovias Colombianas",
+      "country": "Colombia"
+    },
+    {
+      "mawb": "161",
+      "icao": "CAW",
+      "iata": "MN",
+      "airline": "Kulula.com",
+      "country": "South Africa"
+    },
+    {
+      "mawb": "164",
+      "icao": "CRN",
+      "iata": "7L",
+      "airline": "Aero Caribbean",
+      "country": "Caribbean Area, Cuba"
+    },
+    {
+      "mawb": "167",
+      "icao": "AML",
+      "iata": "QM",
+      "airline": "Air Malawi",
+      "country": "Malawi"
+    },
+    {
+      "mawb": "169",
+      "icao": "HHN",
+      "iata": "HR",
+      "airline": "Hahn Air",
+      "country": "Germany"
+    },
+    {
+      "mawb": "171",
+      "icao": "GBL",
+      "iata": "GT",
+      "airline": "GB Airways",
+      "country": "United Kingdom"
+    },
+    {
+      "mawb": "173",
+      "icao": "HAL",
+      "iata": "HA",
+      "airline": "Hawaiian Airlines",
+      "country": "United States"
+    },
+    {
+      "mawb": "175",
+      "icao": "CSQ",
+      "iata": "II",
+      "airline": "IBC Airways Inc",
+      "country": "United States"
+    },
+    {
+      "mawb": "180",
+      "icao": "KAL",
+      "iata": "KE",
+      "airline": "Korean Air",
+      "country": "South Korea"
+    },
+    {
+      "mawb": "182",
+      "icao": "MAH",
+      "iata": "MA",
+      "airline": "Malev Hungarian Airlines",
+      "country": "Hungary"
+    },
+    {
+      "mawb": "185",
+      "icao": "AGN",
+      "iata": "GN",
+      "airline": "Air Gabon",
+      "country": "Gabon"
+    },
+    {
+      "mawb": "187",
+      "icao": "UCR",
+      "iata": "DW",
+      "airline": "ACR Aero-Charter Airlines",
+      "country": "Ukraine"
+    },
+    {
+      "mawb": "189",
+      "icao": "JAE",
+      "iata": "JI",
+      "airline": "Jade Cargo International",
+      "country": "China PRC"
+    },
+    {
+      "mawb": "191",
+      "icao": "ISS",
+      "iata": "IG",
+      "airline": "Meridiana"
+    },
+    {
+      "mawb": "193",
+      "icao": "SOL",
+      "iata": "IE",
+      "airline": "Solomon Airlines",
+      "country": "Pacific Islands, Solomon Islands"
+    },
+    {
+      "mawb": "195",
+      "icao": "SDM",
+      "iata": "FV",
+      "airline": "Rossiya Airlines",
+      "country": "Russia"
+    },
+    {
+      "mawb": "197",
+      "icao": "ATC",
+      "iata": "TC",
+      "airline": "Air Tanzania",
+      "country": "Tanzania"
+    },
+    {
+      "mawb": "199",
+      "icao": "TAR",
+      "iata": "TU",
+      "airline": "Tunisair",
+      "country": "Tunisia"
+    },
+    {
+      "mawb": "200",
+      "icao": "SUD",
+      "iata": "SD",
+      "airline": "Sudan Airways",
+      "country": "Sudan"
+    },
+    {
+      "mawb": "202",
+      "icao": "TAI",
+      "iata": "TA",
+      "airline": "TACA International Airlines/Groupo TACA",
+      "country": "El Salvador"
+    },
+    {
+      "mawb": "204",
+      "icao": "TVR",
+      "iata": "T6",
+      "airline": "Tavrey Airlines",
+      "country": "Ukraine"
+    },
+    {
+      "mawb": "206",
+      "icao": "KAV",
+      "iata": "7F",
+      "airline": "Air Kufra",
+      "country": "Libya"
+    },
+    {
+      "mawb": "209",
+      "icao": "UBA",
+      "iata": "8M",
+      "airline": "Myanmar Airways International",
+      "country": "Myanmar"
+    },
+    {
+      "mawb": "211",
+      "icao": "GAP",
+      "iata": "2P",
+      "airline": "Air Philippines",
+      "country": "Philippines"
+    },
+    {
+      "mawb": "212",
+      "icao": "LCI",
+      "iata": "LF",
+      "airline": "Lufthansa Cargo India",
+      "country": "India"
+    },
+    {
+      "mawb": "214",
+      "icao": "PIA",
+      "iata": "PK",
+      "airline": "Pakistan International Airlines",
+      "country": "Pakistan"
+    },
+    {
+      "mawb": "216",
+      "icao": "PMK",
+      "iata": "3D",
+      "airline": "Palair Macedonia",
+      "country": "Macedonia"
+    },
+    {
+      "mawb": "218",
+      "icao": "AVN",
+      "iata": "NF",
+      "airline": "Air Vanuatu",
+      "country": "Pacific Islands, Vanuatu"
+    },
+    {
+      "mawb": "220",
+      "icao": "DLH",
+      "iata": "LH",
+      "airline": "Lufthansa",
+      "country": "Germany"
+    },
+    {
+      "mawb": "224",
+      "icao": "RYR",
+      "iata": "FR",
+      "airline": "Ryanair",
+      "country": "Ireland"
+    },
+    {
+      "mawb": "226",
+      "icao": "VBW",
+      "iata": "2J",
+      "airline": "Air Burkina",
+      "country": "Burkina Faso"
+    },
+    {
+      "mawb": "228",
+      "icao": "GNC",
+      "iata": "LQ",
+      "airline": "Air Guinea Cargo",
+      "country": "Equatorial Guinea"
+    },
+    {
+      "mawb": "230",
+      "icao": "CMP",
+      "iata": "CM",
+      "airline": "COPA Airlines",
+      "country": "Panama"
+    },
+    {
+      "mawb": "232",
+      "icao": "MAS",
+      "iata": "MH",
+      "airline": "MASKargo",
+      "country": "Malaysia"
+    },
+    {
+      "mawb": "235",
+      "icao": "THY",
+      "iata": "TK",
+      "airline": "Turkish Airlines",
+      "country": "Turkey"
+    },
+    {
+      "mawb": "238",
+      "icao": "AIZ",
+      "iata": "IZ",
+      "airline": "Arkia-Israeli Airlines",
+      "country": "Israel"
+    },
+    {
+      "mawb": "240",
+      "icao": "GUG",
+      "iata": "GU",
+      "airline": "TACA/Aviateca",
+      "country": "Guatemala"
+    },
+    {
+      "mawb": "244",
+      "icao": "THT",
+      "iata": "TN",
+      "airline": "Air Tahiti Nui",
+      "country": "Pacific Islands, French Polynesia"
+    },
+    {
+      "mawb": "246",
+      "icao": "VAT",
+      "iata": "OT",
+      "airline": "Avant Airlines",
+      "country": "Chile"
+    },
+    {
+      "mawb": "247",
+      "icao": "EZX",
+      "iata": "Z7",
+      "airline": "Zimbabwe Express Airlines",
+      "country": "Zimbabwe"
+    },
+    {
+      "mawb": "248",
+      "icao": "RIG",
+      "iata": "GV",
+      "airline": "Riga Airlines",
+      "country": "Latvia"
+    },
+    {
+      "mawb": "250",
+      "icao": "UZB",
+      "iata": "HY",
+      "airline": "Uzbekistan Airways",
+      "country": "Uzbekistan"
+    },
+    {
+      "mawb": "252",
+      "icao": "SUF",
+      "iata": "PI",
+      "airline": "Sunflower Airlines",
+      "country": "Pacific Islands, Fiji"
+    },
+    {
+      "mawb": "254",
+      "icao": "TCI",
+      "iata": "QW",
+      "airline": "Turks Air",
+      "country": "Caribbean Area, Turks & Caicos Islands"
+    },
+    {
+      "mawb": "257",
+      "icao": "AUA",
+      "iata": "OS",
+      "airline": "Austrian Cargo",
+      "country": "Austria"
+    },
+    {
+      "mawb": "260",
+      "icao": "FJI",
+      "iata": "FJ",
+      "airline": "Air Pacific",
+      "country": "Pacific Islands, Fiji"
+    },
+    {
+      "mawb": "263",
+      "icao": "VLE",
+      "iata": "VA",
+      "airline": "Volare Airlines",
+      "country": "Italy"
+    },
+    {
+      "mawb": "266",
+      "icao": "LTU",
+      "iata": "LT",
+      "airline": "LTU International Airways",
+      "country": "Germany"
+    },
+    {
+      "mawb": "267",
+      "icao": "BEE",
+      "iata": "BE",
+      "airline": "FlyBE",
+      "country": "United Kingdom"
+    },
+    {
+      "mawb": "269",
+      "icao": "TAE",
+      "iata": "EQ",
+      "airline": "TAME-Linea Aerea del Ecuador",
+      "country": "Ecuador"
+    },
+    {
+      "mawb": "271",
+      "icao": "SAH",
+      "iata": "W7",
+      "airline": "Sayakhat Air Company",
+      "country": "Kazakhstan"
+    },
+    {
+      "mawb": "273",
+      "icao": "SHK",
+      "iata": "7Q",
+      "airline": "Shorouk Air",
+      "country": "Egypt"
+    },
+    {
+      "mawb": "276",
+      "icao": "SCW",
+      "iata": "TF",
+      "airline": "Malmö Aviation",
+      "country": "Sweden"
+    },
+    {
+      "mawb": "278",
+      "icao": "STU",
+      "iata": "FS",
+      "airline": "STAF Airlines",
+      "country": "Argentina"
+    },
+    {
+      "mawb": "281",
+      "icao": "ROT",
+      "iata": "RO",
+      "airline": "TAROM-Romanian Air Transport",
+      "country": "Romania"
+    },
+    {
+      "mawb": "283",
+      "icao": "MLV",
+      "iata": "RM",
+      "airline": "Air Moldova International",
+      "country": "Moldova"
+    },
+    {
+      "mawb": "285",
+      "icao": "RNA",
+      "iata": "RA",
+      "airline": "Nepal Airlines",
+      "country": "Nepal"
+    },
+    {
+      "mawb": "287",
+      "icao": "ANT",
+      "iata": "4N",
+      "airline": "Air North",
+      "country": "Canada"
+    },
+    {
+      "mawb": "289",
+      "icao": "MGL",
+      "iata": "OM",
+      "airline": "MIAT-Mongolian Airlines",
+      "country": "Mongolia"
+    },
+    {
+      "mawb": "291",
+      "icao": "ORB",
+      "iata": "R2",
+      "airline": "Orenair",
+      "country": "Russia"
+    },
+    {
+      "mawb": "293",
+      "icao": "RSL",
+      "iata": "SL",
+      "airline": "Rio-Sul Servicos Aereos Regionais SA",
+      "country": "Brazil"
+    },
+    {
+      "mawb": "296",
+      "icao": "LLR",
+      "iata": "CD",
+      "airline": "Air India Regional",
+      "country": "India"
+    },
+    {
+      "mawb": "298",
+      "icao": "UTA",
+      "iata": "UT",
+      "airline": "UTair Aviation",
+      "country": "Russia"
+    },
+    {
+      "mawb": "300",
+      "airline": "GlobalApexAir",
+      "country": "United Kingdom"
+    },
+    {
+      "mawb": "302",
+      "icao": "SKW",
+      "iata": "OO",
+      "airline": "SkyWest Airlines",
+      "country": "United States"
+    },
+    {
+      "mawb": "305",
+      "icao": "TOW",
+      "iata": "FF",
+      "airline": "Tower Air",
+      "country": "United States"
+    },
+    {
+      "mawb": "307",
+      "icao": "CWC",
+      "iata": "WE",
+      "airline": "Centurion Air Cargo",
+      "country": "United States"
+    },
+    {
+      "mawb": "312",
+      "icao": "JOL",
+      "iata": "IP",
+      "airline": "Atyrau Airways",
+      "country": "Kazakhstan"
+    },
+    {
+      "mawb": "317",
+      "icao": "AFJ",
+      "iata": "3A",
+      "airline": "Alliance Airlines",
+      "country": "United States"
+    },
+    {
+      "mawb": "319",
+      "icao": "EXV",
+      "iata": "8D",
+      "airline": "Expo Aviation",
+      "country": "Sri Lanka"
+    },
+    {
+      "mawb": "324",
+      "icao": "CDG",
+      "iata": "SC",
+      "airline": "Shandong Airlines",
+      "country": "China PRC"
+    },
+    {
+      "mawb": "328",
+      "icao": "NAX",
+      "iata": "DY",
+      "airline": "Norwegian Air Shuttle",
+      "country": "Norway"
+    },
+    {
+      "mawb": "330",
+      "icao": "FWL",
+      "iata": "RF",
+      "airline": "Florida West International Airways",
+      "country": "United States"
+    },
+    {
+      "mawb": "332",
+      "icao": "TRS",
+      "iata": "FL",
+      "airline": "AirTran",
+      "country": "United States"
+    },
+    {
+      "mawb": "334",
+      "icao": "SAM",
+      "iata": "MM",
+      "airline": "Sociedad Aeronautica de Medellin (SAM)",
+      "country": "Colombia"
+    },
+    {
+      "mawb": "337",
+      "icao": "SCX",
+      "iata": "SY",
+      "airline": "Sun Country Airlines",
+      "country": "United States"
+    },
+    {
+      "mawb": "339",
+      "icao": "PEN",
+      "iata": "KS",
+      "airline": "Penair",
+      "country": "United States"
+    },
+    {
+      "mawb": "341",
+      "icao": "EEA",
+      "iata": "EU",
+      "airline": "Ecuatoriana Airlines",
+      "country": "Ecuador"
+    },
+    {
+      "mawb": "343",
+      "icao": "VSP",
+      "iata": "VP",
+      "airline": "VASP",
+      "country": "Brazil"
+    },
+    {
+      "mawb": "345",
+      "icao": "NAC",
+      "iata": "NC",
+      "airline": "Northern Air Cargo",
+      "country": "United States"
+    },
+    {
+      "mawb": "348",
+      "icao": "GJB",
+      "iata": "TY",
+      "airline": "Trans Air Link",
+      "country": "United States"
+    },
+    {
+      "mawb": "352",
+      "icao": "MPD",
+      "iata": "A7",
+      "airline": "Air Comet",
+      "country": "Spain"
+    },
+    {
+      "mawb": "354",
+      "icao": "KHO",
+      "iata": "KO",
+      "airline": "Khors Aircompany",
+      "country": "Ukraine"
+    },
+    {
+      "mawb": "356",
+      "icao": "MUI",
+      "iata": "P6",
+      "airline": "Trans Air",
+      "country": "United States"
+    },
+    {
+      "mawb": "358",
+      "icao": "GCO",
+      "iata": "GR",
+      "airline": "Gemini Air Cargo",
+      "country": "United States"
+    },
+    {
+      "mawb": "362",
+      "icao": "FJE",
+      "iata": "Y7",
+      "airline": "Silverjet Cargo/Flyjet",
+      "country": "United Kingdom"
+    },
+    {
+      "mawb": "366",
+      "icao": "AMT",
+      "iata": "TZ",
+      "airline": "ATA Airlines",
+      "country": "United States"
+    },
+    {
+      "mawb": "369",
+      "icao": "GTI",
+      "iata": "5Y",
+      "airline": "Atlas Air",
+      "country": "United States"
+    },
+    {
+      "mawb": "373",
+      "icao": "CTT",
+      "iata": "DG",
+      "airline": "Custom Air Transport",
+      "country": "United States"
+    },
+    {
+      "mawb": "375",
+      "icao": "SWI",
+      "iata": "SM",
+      "airline": "Sunworld International Airlines",
+      "country": "United States"
+    },
+    {
+      "mawb": "378",
+      "icao": "CAY",
+      "iata": "KX",
+      "airline": "Cayman Airways",
+      "country": "Caribbean Area, Cayman Islands"
+    },
+    {
+      "mawb": "381",
+      "icao": "VES",
+      "iata": "VI",
+      "airline": "Vieques Air Link",
+      "country": "Caribbean Area, Puerto Rico"
+    },
+    {
+      "mawb": "384",
+      "icao": "ROA",
+      "iata": "QQ",
+      "airline": "Reno Air",
+      "country": "United States"
+    },
+    {
+      "mawb": "386",
+      "icao": "AAI",
+      "iata": "AX",
+      "airline": "Air Aurora",
+      "country": "United States"
+    },
+    {
+      "mawb": "388",
+      "icao": "PXA",
+      "iata": "KW",
+      "airline": "Pan American World Airways",
+      "country": "United States"
+    },
+    {
+      "mawb": "391",
+      "icao": "MBN",
+      "iata": "Q3",
+      "airline": "Zambian Airways",
+      "country": "Zambia"
+    },
+    {
+      "mawb": "399",
+      "icao": "KKB",
+      "iata": "WV",
+      "airline": "Air South Airlines",
+      "country": "United States"
+    },
+    {
+      "mawb": "400",
+      "icao": "PNW",
+      "iata": "PF",
+      "airline": "Palestinian Airlines",
+      "country": "Palestinian National Authority"
+    },
+    {
+      "mawb": "403",
+      "icao": "PAC",
+      "iata": "PO",
+      "airline": "Polar Air Cargo",
+      "country": "United States"
+    },
+    {
+      "mawb": "406",
+      "icao": "UPS",
+      "iata": "5X",
+      "airline": "UPS Airlines",
+      "country": "United States"
+    },
+    {
+      "mawb": "408",
+      "icao": "LCG",
+      "iata": "6V",
+      "airline": "Lignes Aeriennes Congolaises - LAC",
+      "country": "Congo (Democratic Republic)"
+    },
+    {
+      "mawb": "410",
+      "icao": "AZS",
+      "iata": "ZR",
+      "airline": "Aviacon Zitotrans",
+      "country": "Russia"
+    },
+    {
+      "mawb": "414",
+      "icao": "LOF",
+      "iata": "AX",
+      "airline": "Trans States Airlines",
+      "country": "United States"
+    },
+    {
+      "mawb": "417",
+      "icao": "BRC",
+      "iata": "E6",
+      "airline": "Bringer Air Cargo",
+      "country": "Brazil"
+    },
+    {
+      "mawb": "421",
+      "icao": "SBI",
+      "iata": "S7",
+      "airline": "S7 Airlines",
+      "country": "Russia"
+    },
+    {
+      "mawb": "424",
+      "icao": "SCI",
+      "iata": "C7",
+      "airline": "Special Cargo Airlines",
+      "country": "Russia"
+    },
+    {
+      "mawb": "426",
+      "icao": "CJC",
+      "iata": "9L",
+      "airline": "Colgan Air",
+      "country": "United States"
+    },
+    {
+      "mawb": "428",
+      "icao": "MVL",
+      "iata": "H5",
+      "airline": "Magadan Airlines",
+      "country": "Russia"
+    },
+    {
+      "mawb": "430",
+      "icao": "FLG",
+      "iata": "9E",
+      "airline": "Pinnacle Airlines",
+      "country": "United States"
+    },
+    {
+      "mawb": "436",
+      "icao": "LAJ",
+      "iata": "KJ",
+      "airline": "British Mediterranean Airways",
+      "country": "United Kingdom"
+    },
+    {
+      "mawb": "439",
+      "icao": "AAF",
+      "iata": "ZI",
+      "airline": "Aigle Azur Transport Aériens",
+      "country": "France"
+    },
+    {
+      "mawb": "444",
+      "icao": "KZU",
+      "iata": "GO",
+      "airline": "ULS Airlines Cargo",
+      "country": "Turkey"
+    },
+    {
+      "mawb": "449",
+      "icao": "GFT",
+      "iata": "3M",
+      "airline": "Gulfstream International Airlines",
+      "country": "United States"
+    },
+    {
+      "mawb": "452",
+      "icao": "KZK",
+      "iata": "9Y",
+      "airline": "Air Kazakhstan",
+      "country": "Kazakhstan"
+    },
+    {
+      "mawb": "454",
+      "icao": "GIP",
+      "iata": "2U",
+      "airline": "Air Guinee Express",
+      "country": "Guinea"
+    },
+    {
+      "mawb": "457",
+      "icao": "CXT",
+      "iata": "DQ",
+      "airline": "Coastal Air Transport",
+      "country": "Caribbean Area, Virgin Islands (USA)"
+    },
+    {
+      "mawb": "462",
+      "icao": "LNE",
+      "iata": "XL",
+      "airline": "LAN Ecuador",
+      "country": "Ecuador"
+    },
+    {
+      "mawb": "464",
+      "icao": "CFS",
+      "iata": "EM",
+      "airline": "Empire Airlines",
+      "country": "United States"
+    },
+    {
+      "mawb": "466",
+      "icao": "AFX",
+      "iata": "5Z",
+      "airline": "Airfreight Express",
+      "country": "United Kingdom"
+    },
+    {
+      "mawb": "468",
+      "icao": "WOA",
+      "iata": "WO",
+      "airline": "World Airways",
+      "country": "United States"
+    },
+    {
+      "mawb": "470",
+      "icao": "SGK",
+      "iata": "K9",
+      "airline": "Skyward Aviation",
+      "country": "Canada"
+    },
+    {
+      "mawb": "473",
+      "icao": "XLF",
+      "iata": "SE",
+      "airline": "XL Airways France",
+      "country": "France"
+    },
+    {
+      "mawb": "475",
+      "icao": "ECA",
+      "iata": "UI",
+      "airline": "Eurocypria Airlines",
+      "country": "Cyprus"
+    },
+    {
+      "mawb": "478",
+      "icao": "MRK",
+      "iata": "BF",
+      "airline": "Markair",
+      "country": "United States"
+    },
+    {
+      "mawb": "480",
+      "icao": "BLR",
+      "iata": "DH",
+      "airline": "Atlantic Coast Airlines (United Express)",
+      "country": "United States"
+    },
+    {
+      "mawb": "483",
+      "icao": "BKL",
+      "iata": "X3",
+      "airline": "Baikal",
+      "country": "Russia"
+    },
+    {
+      "mawb": "485",
+      "icao": "ACP",
+      "iata": "8V",
+      "airline": "Astral Aviation",
+      "country": "Kenya"
+    },
+    {
+      "mawb": "488",
+      "icao": "WDY",
+      "iata": "C8",
+      "airline": "Chicago Express Airlines",
+      "country": "United States"
+    },
+    {
+      "mawb": "494",
+      "icao": "EIA",
+      "iata": "EZ",
+      "airline": "Evergreen International Airlines",
+      "country": "United States"
+    },
+    {
+      "mawb": "497",
+      "icao": "DMO",
+      "iata": "E3",
+      "airline": "Domodedovo Airlines",
+      "country": "Russia"
+    },
+    {
+      "mawb": "500",
+      "icao": "GEO",
+      "iata": "DA",
+      "airline": "Air Georgia",
+      "country": "Georgia"
+    },
+    {
+      "mawb": "502",
+      "icao": "TJK",
+      "iata": "7J",
+      "airline": "Tajikair",
+      "country": "Tajikistan"
+    },
+    {
+      "mawb": "504",
+      "icao": "JEV",
+      "iata": "N7",
+      "airline": "Lagun Air",
+      "country": "Spain"
+    },
+    {
+      "mawb": "510",
+      "icao": "LAB",
+      "iata": "JF",
+      "airline": "Lab Flying Service",
+      "country": "United States"
+    },
+    {
+      "mawb": "512",
+      "icao": "RJA",
+      "iata": "RJ",
+      "airline": "Royal Jordanian",
+      "country": "Jordan"
+    },
+    {
+      "mawb": "513",
+      "icao": "CDO",
+      "iata": "7G",
+      "airline": "Cargo d'Or",
+      "country": "United Kingdom"
+    },
+    {
+      "mawb": "516",
+      "icao": "LTN",
+      "airline": "Aerolineas Latinas (Aerolatin)",
+      "country": "Venezuela"
+    },
+    {
+      "mawb": "518",
+      "icao": "MPE",
+      "iata": "5T",
+      "airline": "Canadian North",
+      "country": "Canada"
+    },
+    {
+      "mawb": "520",
+      "icao": "ELK",
+      "iata": "S8",
+      "airline": "ELK-Estonian Aviation Company",
+      "country": "Estonia"
+    },
+    {
+      "mawb": "525",
+      "icao": "UIA",
+      "iata": "B7",
+      "airline": "UNI Air",
+      "country": "Taiwan ROC"
+    },
+    {
+      "mawb": "527",
+      "icao": "LPV",
+      "iata": "A6",
+      "airline": "Air Alps",
+      "country": "Austria"
+    },
+    {
+      "mawb": "529",
+      "icao": "CIU",
+      "iata": "A2",
+      "airline": "Cielos Airlines",
+      "country": "Peru"
+    },
+    {
+      "mawb": "532",
+      "icao": "RSO",
+      "iata": "E4",
+      "airline": "Aero Asia International",
+      "country": "Pakistan"
+    },
+    {
+      "mawb": "534",
+      "icao": "RMV",
+      "iata": "WQ",
+      "airline": "Romavia",
+      "country": "Romania"
+    },
+    {
+      "mawb": "537",
+      "icao": "IRM",
+      "iata": "W5",
+      "airline": "Mahan Air",
+      "country": "Iran"
+    },
+    {
+      "mawb": "539",
+      "icao": "TSE",
+      "iata": "TH",
+      "airline": "Transmile Air Services",
+      "country": "Malaysia"
+    },
+    {
+      "mawb": "541",
+      "icao": "BML",
+      "iata": "5Z",
+      "airline": "Bismillah Airlines",
+      "country": "Bangladesh"
+    },
+    {
+      "mawb": "543",
+      "icao": "LEI",
+      "airline": "Leisure International Airways",
+      "country": "United Kingdom"
+    },
+    {
+      "mawb": "545",
+      "iata": "X8",
+      "airline": "Icaro",
+      "country": "Ecuador"
+    },
+    {
+      "mawb": "548",
+      "icao": "MOD",
+      "iata": "M9",
+      "airline": "ModiLuft",
+      "country": "India"
+    },
+    {
+      "mawb": "550",
+      "icao": "PIC",
+      "iata": "BL",
+      "airline": "Jetstar Pacific Airlines",
+      "country": "Vietnam"
+    },
+    {
+      "mawb": "553",
+      "icao": "FCX",
+      "iata": "FC",
+      "airline": "Falcon Express Cargo Airline",
+      "country": "United Arab Emirates, Dubai"
+    },
+    {
+      "mawb": "556",
+      "icao": "TRQ",
+      "iata": "6N",
+      "airline": "Trans Travel Airlines",
+      "country": "Netherlands"
+    },
+    {
+      "mawb": "559",
+      "icao": "DCE",
+      "iata": "K8",
+      "airline": "Dutch Caribbean Airlines",
+      "country": "Caribbean Area, Curaçao"
+    },
+    {
+      "mawb": "562",
+      "icao": "ASZ",
+      "iata": "OB",
+      "airline": "Astrakhan Airlines",
+      "country": "Russia"
+    },
+    {
+      "mawb": "566",
+      "icao": "AUI",
+      "iata": "PS",
+      "airline": "Ukraine International Airlines",
+      "country": "Ukraine"
+    },
+    {
+      "mawb": "568",
+      "icao": "ANV",
+      "iata": "LW",
+      "airline": "Pacific Wings",
+      "country": "United States"
+    },
+    {
+      "mawb": "572",
+      "icao": "MLD",
+      "iata": "9U",
+      "airline": "Air Moldova",
+      "country": "Moldova"
+    },
+    {
+      "mawb": "574",
+      "icao": "AJK",
+      "iata": "4W",
+      "airline": "Allied Air",
+      "country": "Nigeria"
+    },
+    {
+      "mawb": "578",
+      "icao": "OEA",
+      "iata": "OX",
+      "airline": "Orient Thai Airlines",
+      "country": "Thailand"
+    },
+    {
+      "mawb": "582",
+      "icao": "MES",
+      "iata": "XJ",
+      "airline": "Mesaba Aviation",
+      "country": "United States"
+    },
+    {
+      "mawb": "587",
+      "icao": "SEE",
+      "airline": "Shaheen Air Cargo",
+      "country": "Pakistan"
+    },
+    {
+      "mawb": "591",
+      "icao": "EWW",
+      "iata": "EB",
+      "airline": "Emery Worldwide",
+      "country": "United States"
+    },
+    {
+      "mawb": "593",
+      "icao": "GNT",
+      "iata": "II",
+      "airline": "Business Air",
+      "country": "United Kingdom"
+    },
+    {
+      "mawb": "595",
+      "icao": "NTS",
+      "airline": "Cirrusair",
+      "country": "United States"
+    },
+    {
+      "mawb": "597",
+      "icao": "SIH",
+      "iata": "SI",
+      "airline": "Skynet Airlines",
+      "country": "Ireland"
+    },
+    {
+      "mawb": "600",
+      "icao": "CBB",
+      "iata": "BB",
+      "airline": "Cargo B",
+      "country": "Belgium"
+    },
+    {
+      "mawb": "602",
+      "icao": "SCB",
+      "iata": "2E",
+      "airline": "Sky Cabs",
+      "country": "Sri Lanka"
+    },
+    {
+      "mawb": "605",
+      "airline": "Jamaica Air Freighters",
+      "country": "Caribbean Area, Jamaica"
+    },
+    {
+      "mawb": "606",
+      "icao": "TGZ",
+      "iata": "A9",
+      "airline": "Georgian Airways",
+      "country": "Georgia"
+    },
+    {
+      "mawb": "609",
+      "icao": "TRL",
+      "iata": "T4",
+      "airline": "TransEast Airlines",
+      "country": "Latvia"
+    },
+    {
+      "mawb": "612",
+      "icao": "CYM",
+      "airline": "Compass Airlines",
+      "country": "Australia"
+    },
+    {
+      "mawb": "614",
+      "icao": "AUB",
+      "iata": "IQ",
+      "airline": "Augsburg Airways",
+      "country": "Germany"
+    },
+    {
+      "mawb": "616",
+      "icao": "AGJ",
+      "iata": "JG",
+      "airline": "Air Greece-Aerodromis",
+      "country": "Greece"
+    },
+    {
+      "mawb": "618",
+      "icao": "SQC",
+      "iata": "SQ",
+      "airline": "Singapore Airlines Cargo",
+      "country": "Singapore"
+    },
+    {
+      "mawb": "621",
+      "icao": "MNA",
+      "iata": "MZ",
+      "airline": "Merpati Nusantara",
+      "country": "Indonesia"
+    },
+    {
+      "mawb": "623",
+      "icao": "LZB",
+      "iata": "FB",
+      "airline": "Bulgaria Air",
+      "country": "Bulgaria"
+    },
+    {
+      "mawb": "625",
+      "icao": "ILN",
+      "iata": "D6",
+      "airline": "Interair South Africa",
+      "country": "South Africa"
+    },
+    {
+      "mawb": "628",
+      "icao": "BRU",
+      "iata": "B2",
+      "airline": "Belavia",
+      "country": "Belarus"
+    },
+    {
+      "mawb": "630",
+      "icao": "VKG",
+      "iata": "DK",
+      "airline": "Thomas Cook Airlines Scandinavia",
+      "country": "Denmark"
+    },
+    {
+      "mawb": "632",
+      "icao": "BLS",
+      "iata": "JV",
+      "airline": "Bearskin Airlines",
+      "country": "United States"
+    },
+    {
+      "mawb": "634",
+      "icao": "GLR",
+      "iata": "9M",
+      "airline": "Central Mountain Air",
+      "country": "Canada"
+    },
+    {
+      "mawb": "636",
+      "icao": "BOT",
+      "iata": "BP",
+      "airline": "Air Botswana",
+      "country": "Botswana"
+    },
+    {
+      "mawb": "639",
+      "icao": "LBC",
+      "iata": "LV",
+      "airline": "Albanian Airlines",
+      "country": "Albania"
+    },
+    {
+      "mawb": "642",
+      "icao": "SLI",
+      "iata": "5D",
+      "airline": "AeroMéxico Connect",
+      "country": "Mexico"
+    },
+    {
+      "mawb": "644",
+      "icao": "SLR",
+      "iata": "Q7",
+      "airline": "Sobelair",
+      "country": "Belgium"
+    },
+    {
+      "mawb": "647",
+      "icao": "CIM",
+      "iata": "QI",
+      "airline": "Cimber Sterling",
+      "country": "Denmark"
+    },
+    {
+      "mawb": "649",
+      "icao": "TSC",
+      "iata": "TS",
+      "airline": "Air Transat",
+      "country": "Canada"
+    },
+    {
+      "mawb": "652",
+      "icao": "ICB",
+      "iata": "HH",
+      "airline": "Islandsflug",
+      "country": "Iceland"
+    },
+    {
+      "mawb": "656",
+      "icao": "ANG",
+      "iata": "PX",
+      "airline": "Air Niugini",
+      "country": "Papua New Guinea"
+    },
+    {
+      "mawb": "657",
+      "icao": "BRY",
+      "iata": "BC",
+      "airline": "Brymon Airways",
+      "country": "United Kingdom"
+    },
+    {
+      "mawb": "659",
+      "icao": "LIT",
+      "iata": "FU",
+      "airline": "Air Littoral",
+      "country": "France"
+    },
+    {
+      "mawb": "661",
+      "iata": "6G",
+      "airline": "Gabon Airlines Cargo",
+      "country": "Gabon"
+    },
+    {
+      "mawb": "665",
+      "icao": "VEX",
+      "iata": "TV",
+      "airline": "Virgin Express",
+      "country": "Belgium"
+    },
+    {
+      "mawb": "667",
+      "icao": "AEL",
+      "iata": "PE",
+      "airline": "Air Europe",
+      "country": "Italy"
+    },
+    {
+      "mawb": "669",
+      "icao": "RNV",
+      "iata": "U8",
+      "airline": "Armavia",
+      "country": "Armenia"
+    },
+    {
+      "mawb": "671",
+      "icao": "HLS",
+      "iata": "9F",
+      "airline": "Haiti Air Freight International",
+      "country": "Caribbean Area, Haiti"
+    },
+    {
+      "mawb": "673",
+      "icao": "UGA",
+      "iata": "QU",
+      "airline": "Uganda Airlines",
+      "country": "Uganda"
+    },
+    {
+      "mawb": "675",
+      "icao": "AMU",
+      "iata": "NX",
+      "airline": "Air Macau",
+      "country": "Macau"
+    },
+    {
+      "mawb": "677",
+      "icao": "FAJ",
+      "iata": "PC",
+      "airline": "Air Fiji",
+      "country": "Pacific Islands, Fiji"
+    },
+    {
+      "mawb": "680",
+      "icao": "JKK",
+      "iata": "JK",
+      "airline": "Spanair",
+      "country": "Spain"
+    },
+    {
+      "mawb": "683",
+      "icao": "CLH",
+      "iata": "CL",
+      "airline": "Lufthansa CityLine",
+      "country": "Germany"
+    },
+    {
+      "mawb": "685",
+      "icao": "PGA",
+      "iata": "NI",
+      "airline": "Portugália Airlines",
+      "country": "Portugal"
+    },
+    {
+      "mawb": "687",
+      "icao": "AAH",
+      "iata": "KH",
+      "airline": "Aloha Air Cargo",
+      "country": "United States"
+    },
+    {
+      "mawb": "689",
+      "icao": "BCY",
+      "iata": "WX",
+      "airline": "Cityjet",
+      "country": "Ireland"
+    },
+    {
+      "mawb": "691",
+      "icao": "TYM",
+      "iata": "7M",
+      "airline": "Tyumen Airlines",
+      "country": "Russia"
+    },
+    {
+      "mawb": "693",
+      "icao": "JEC",
+      "iata": "JX",
+      "airline": "Jett8 Airlines Cargo",
+      "country": "Singapore"
+    },
+    {
+      "mawb": "695",
+      "icao": "EVA",
+      "iata": "BR",
+      "airline": "EVA Air",
+      "country": "Taiwan ROC"
+    },
+    {
+      "mawb": "699",
+      "icao": "VIM",
+      "iata": "VL",
+      "airline": "Air VIA Bulgarian Airways",
+      "country": "Bulgaria"
+    },
+    {
+      "mawb": "700",
+      "icao": "ICL",
+      "iata": "5C",
+      "airline": "CAL Cargo Airlines",
+      "country": "Israel"
+    },
+    {
+      "mawb": "702",
+      "icao": "MSK",
+      "iata": "VB",
+      "airline": "Maersk Air (UK)",
+      "country": "United Kingdom"
+    },
+    {
+      "mawb": "706",
+      "icao": "KQA",
+      "iata": "KQ",
+      "airline": "Kenya Airways",
+      "country": "Kenya"
+    },
+    {
+      "mawb": "708",
+      "icao": "JAZ",
+      "iata": "JO",
+      "airline": "JAL Ways",
+      "country": "Japan"
+    },
+    {
+      "mawb": "712",
+      "icao": "JLH",
+      "airline": "Jet Link",
+      "country": "Netherlands"
+    },
+    {
+      "mawb": "715",
+      "icao": "TUN",
+      "iata": "VK",
+      "airline": "Air Tungaru",
+      "country": "Pacific Islands, Kiribati"
+    },
+    {
+      "mawb": "717",
+      "icao": "OCA",
+      "iata": "R7",
+      "airline": "ASERCA Airlines",
+      "country": "Venezuela"
+    },
+    {
+      "mawb": "720",
+      "icao": "ORX",
+      "airline": "Orex Airlines",
+      "country": "Turkey"
+    },
+    {
+      "mawb": "722",
+      "icao": "LER",
+      "iata": "KZ",
+      "airline": "Linea Aerea",
+      "country": "Venezuela"
+    },
+    {
+      "mawb": "724",
+      "icao": "SWR",
+      "iata": "LX",
+      "airline": "Swiss WorldCargo",
+      "country": "Switzerland"
+    },
+    {
+      "mawb": "726",
+      "icao": "FST",
+      "iata": "UD",
+      "airline": "Fast Air Carrier",
+      "country": "Chile"
+    },
+    {
+      "mawb": "727",
+      "icao": "MYT",
+      "iata": "VZ",
+      "airline": "MyTravel",
+      "country": "United Kingdom"
+    },
+    {
+      "mawb": "730",
+      "icao": "ACX",
+      "iata": "6U",
+      "airline": "ACG - Air Cargo Germany",
+      "country": "Germany"
+    },
+    {
+      "mawb": "732",
+      "icao": "UZS",
+      "iata": "C7",
+      "airline": "Samarkand Airways",
+      "country": "Uzbekistan"
+    },
+    {
+      "mawb": "734",
+      "icao": "TYR",
+      "iata": "VO",
+      "airline": "Tyrolean Airways/Austrian Arrows",
+      "country": "Austria"
+    },
+    {
+      "mawb": "737",
+      "icao": "SAT",
+      "iata": "SP",
+      "airline": "SATA - Air Açores",
+      "country": "Azores"
+    },
+    {
+      "mawb": "739",
+      "icao": "SAN",
+      "iata": "WB",
+      "airline": "SAN Servicios Aereos Nacionales",
+      "country": "Ecuador"
+    },
+    {
+      "mawb": "741",
+      "icao": "NEC",
+      "iata": "3Z",
+      "airline": "Necon Air",
+      "country": "Nepal"
+    },
+    {
+      "mawb": "743",
+      "icao": "AXX",
+      "iata": "M4",
+      "airline": "Avioimpex",
+      "country": "Macedonia"
+    },
+    {
+      "mawb": "746",
+      "iata": "2A",
+      "airline": "AECA-Aeroservicios Ecuatorianos CA",
+      "country": "Ecuador"
+    },
+    {
+      "mawb": "749",
+      "icao": "LNK",
+      "iata": "4Z",
+      "airline": "Airlink",
+      "country": "South Africa"
+    },
+    {
+      "mawb": "751",
+      "icao": "SYZ",
+      "airline": "Southend Cargo Airlines",
+      "country": "Zimbabwe"
+    },
+    {
+      "mawb": "753",
+      "icao": "OMS",
+      "iata": "N3",
+      "airline": "Omskavia",
+      "country": "Russia"
+    },
+    {
+      "mawb": "756",
+      "icao": "TAY",
+      "iata": "3V",
+      "airline": "TNT Airways",
+      "country": "Belgium"
+    },
+    {
+      "mawb": "758",
+      "icao": "KGA",
+      "iata": "K2",
+      "airline": "Kyrgyzstan Airlines",
+      "country": "Kyrgyzstan"
+    },
+    {
+      "mawb": "760",
+      "icao": "REU",
+      "iata": "UU",
+      "airline": "Air Austral",
+      "country": "Reunion"
+    },
+    {
+      "mawb": "765",
+      "icao": "RCN",
+      "airline": "Imperial Cargo Airlines",
+      "country": "Nigeria"
+    },
+    {
+      "mawb": "766",
+      "icao": "EFX",
+      "iata": "BE",
+      "airline": "Easy Fly Express",
+      "country": "Bangladesh"
+    },
+    {
+      "mawb": "768",
+      "icao": "ANK",
+      "iata": "EL",
+      "airline": "Air Nippon",
+      "country": "Japan"
+    },
+    {
+      "mawb": "771",
+      "icao": "AHY",
+      "iata": "J2",
+      "airline": "Azerbaijan Airlines",
+      "country": "Azerbaijan"
+    },
+    {
+      "mawb": "777",
+      "icao": "FSW",
+      "airline": "Faso Airways",
+      "country": "Burkina Faso"
+    },
+    {
+      "mawb": "779",
+      "icao": "GCP",
+      "iata": "6P",
+      "airline": "DAC Air SA",
+      "country": "Romania"
+    },
+    {
+      "mawb": "781",
+      "icao": "CES",
+      "iata": "MU",
+      "airline": "China Eastern Airlines",
+      "country": "China PRC"
+    },
+    {
+      "mawb": "783",
+      "icao": "CNW",
+      "iata": "WH",
+      "airline": "China Northwest Airlines",
+      "country": "China PRC"
+    },
+    {
+      "mawb": "785",
+      "icao": "CXN",
+      "iata": "SZ",
+      "airline": "China Southwest Airlines",
+      "country": "China PRC"
+    },
+    {
+      "mawb": "787",
+      "icao": "DRK",
+      "iata": "KB",
+      "airline": "Druk Air",
+      "country": "Bhutan"
+    },
+    {
+      "mawb": "790",
+      "iata": "1A",
+      "airline": "Leader Jet",
+      "country": "United States"
+    },
+    {
+      "mawb": "795",
+      "icao": "VOZ",
+      "iata": "DJ",
+      "airline": "Virgin Blue",
+      "country": "Australia"
+    },
+    {
+      "mawb": "798",
+      "icao": "KHA",
+      "iata": "KR",
+      "airline": "Kitty Hawk Aircargo",
+      "country": "United States"
+    },
+    {
+      "mawb": "800",
+      "icao": "GSC",
+      "iata": "GD",
+      "airline": "Grandstar Cargo",
+      "country": "China PRC"
+    },
+    {
+      "mawb": "802",
+      "icao": "AEK",
+      "iata": "ML",
+      "airline": "Aero Costa Rica",
+      "country": "Peru"
+    },
+    {
+      "mawb": "804",
+      "icao": "EWA",
+      "iata": "EW",
+      "airline": "East-West Airlines",
+      "country": "Australia"
+    },
+    {
+      "mawb": "807",
+      "icao": "AXM",
+      "iata": "AK",
+      "airline": "AirAsia",
+      "country": "Malaysia"
+    },
+    {
+      "mawb": "809",
+      "icao": "CRW",
+      "iata": "2R",
+      "airline": "Regal (Crownair)",
+      "country": "United States"
+    },
+    {
+      "mawb": "811",
+      "icao": "ANE",
+      "iata": "8A",
+      "airline": "Americana",
+      "country": "Peru"
+    },
+    {
+      "mawb": "815",
+      "icao": "IRC",
+      "iata": "EP",
+      "airline": "Iran Aseman Airlines",
+      "country": "Iran"
+    },
+    {
+      "mawb": "819",
+      "icao": "DVU",
+      "iata": "NQ",
+      "airline": "Orbi Georgian Airlines",
+      "country": "Georgia"
+    },
+    {
+      "mawb": "824",
+      "icao": "AXL",
+      "iata": "XT",
+      "airline": "KLM Exel",
+      "country": "Netherlands"
+    },
+    {
+      "mawb": "826",
+      "icao": "TCO",
+      "airline": "AeroTrans Colombiana De Carga",
+      "country": "Colombia"
+    },
+    {
+      "mawb": "828",
+      "icao": "UKM",
+      "iata": "UF",
+      "airline": "UM Air",
+      "country": "Ukraine"
+    },
+    {
+      "mawb": "831",
+      "icao": "CTN",
+      "iata": "OU",
+      "airline": "Croatia Airlines",
+      "country": "Croatia"
+    },
+    {
+      "mawb": "834",
+      "icao": "WLG",
+      "iata": "G6",
+      "airline": "Air Volga",
+      "country": "Russia"
+    },
+    {
+      "mawb": "837",
+      "icao": "PTB",
+      "iata": "Y8",
+      "airline": "Passaredo Transportes Aeros",
+      "country": "Brazil"
+    },
+    {
+      "mawb": "838",
+      "icao": "TEJ",
+      "iata": "GD",
+      "airline": "TAESA - Transportes Aereos Ejecutivos",
+      "country": "Mexico"
+    },
+    {
+      "mawb": "842",
+      "icao": "SIB",
+      "iata": "5M",
+      "airline": "Sibavia",
+      "country": "Russia"
+    },
+    {
+      "mawb": "844",
+      "icao": "CFE",
+      "iata": "FD",
+      "airline": "Cityflyer",
+      "country": "United Kingdom"
+    },
+    {
+      "mawb": "846",
+      "icao": "GLA",
+      "iata": "ZK",
+      "airline": "Great Lakes Aviation Ltd",
+      "country": "United States"
+    },
+    {
+      "mawb": "850",
+      "icao": "FYH",
+      "iata": "W3",
+      "airline": "Flyhy Cargo Airlines",
+      "country": "Thailand"
+    },
+    {
+      "mawb": "854",
+      "icao": "GTV",
+      "iata": "KG",
+      "airline": "Aerogaviota",
+      "country": "Caribbean Area, Cuba"
+    },
+    {
+      "mawb": "858",
+      "icao": "WTA",
+      "iata": "FK",
+      "airline": "Africa West",
+      "country": "Togo"
+    },
+    {
+      "mawb": "860",
+      "icao": "MDV",
+      "iata": "2M",
+      "airline": "Moldavian Airlines",
+      "country": "Moldova"
+    },
+    {
+      "mawb": "865",
+      "icao": "MAA",
+      "iata": "MY",
+      "airline": "Mas Air",
+      "country": "Mexico"
+    },
+    {
+      "mawb": "868",
+      "icao": "VAS",
+      "iata": "V8",
+      "airline": "ATRAN Cargo Airlines",
+      "country": "Russia"
+    },
+    {
+      "mawb": "871",
+      "icao": "YZR",
+      "iata": "Y8",
+      "airline": "Yangtze River Express Airlines",
+      "country": "China PRC"
+    },
+    {
+      "mawb": "875",
+      "icao": "AIE",
+      "iata": "3H",
+      "airline": "Air Inuit",
+      "country": "Canada"
+    },
+    {
+      "mawb": "879",
+      "icao": "CPN",
+      "iata": "RV",
+      "airline": "Caspian Air Lines",
+      "country": "Iran"
+    },
+    {
+      "mawb": "881",
+      "icao": "CFG",
+      "iata": "DE",
+      "airline": "Condor",
+      "country": "Germany"
+    },
+    {
+      "mawb": "884",
+      "icao": "SSV",
+      "iata": "5G",
+      "airline": "Skyservice",
+      "country": "Canada"
+    },
+    {
+      "mawb": "886",
+      "icao": "COM",
+      "iata": "OH",
+      "airline": "Comair - Delta Connection",
+      "country": "United States"
+    },
+    {
+      "mawb": "888",
+      "icao": "MDL",
+      "iata": "MI",
+      "airline": "Mandala Airlines",
+      "country": "Indonesia"
+    },
+    {
+      "mawb": "895",
+      "icao": "HSA",
+      "iata": "S9",
+      "airline": "East African Safari Air",
+      "country": "Kenya"
+    },
+    {
+      "mawb": "897",
+      "icao": "UDC",
+      "iata": "7D",
+      "airline": "Donbassaero",
+      "country": "Ukraine"
+    },
+    {
+      "mawb": "899",
+      "icao": "RXA",
+      "iata": "ZL",
+      "airline": "Regional Express Airlines",
+      "country": "Australia"
+    },
+    {
+      "mawb": "900",
+      "icao": "AMI",
+      "iata": "L6",
+      "airline": "Air Maldives",
+      "country": "Maldives"
+    },
+    {
+      "mawb": "902",
+      "icao": "GRO",
+      "iata": "LL",
+      "airline": "Lineas Aereas Allegro",
+      "country": "Mexico"
+    },
+    {
+      "mawb": "904",
+      "icao": "RML",
+      "iata": "MV",
+      "airline": "Armenian International Airways",
+      "country": "Armenia"
+    },
+    {
+      "mawb": "907",
+      "icao": "ARR",
+      "iata": "QN",
+      "airline": "Air Armenia",
+      "country": "Armenia"
+    },
+    {
+      "mawb": "909",
+      "icao": "ABS",
+      "iata": "9T",
+      "airline": "Transwest Air",
+      "country": "Canada"
+    },
+    {
+      "mawb": "912",
+      "icao": "ABR",
+      "iata": "AG",
+      "airline": "Air Contractors",
+      "country": "Ireland"
+    },
+    {
+      "mawb": "915",
+      "icao": "RTL",
+      "iata": "WE",
+      "airline": "Rheintalflug Seewald",
+      "country": "Austria"
+    },
+    {
+      "mawb": "917",
+      "icao": "APY",
+      "iata": "7P",
+      "airline": "APA International Air",
+      "country": "United States"
+    },
+    {
+      "mawb": "919",
+      "icao": "TCF",
+      "iata": "S5",
+      "airline": "Shuttle America",
+      "country": "United States"
+    },
+    {
+      "mawb": "922",
+      "icao": "PVV",
+      "iata": "PC",
+      "airline": "Continental Airways",
+      "country": "Russia"
+    },
+    {
+      "mawb": "924",
+      "icao": "AUR",
+      "iata": "GR",
+      "airline": "Aurigny Air Services",
+      "country": "Guernsey"
+    },
+    {
+      "mawb": "926",
+      "icao": "ROM",
+      "iata": "BQ",
+      "airline": "Aeromar",
+      "country": "United States"
+    },
+    {
+      "mawb": "928",
+      "icao": "SSN",
+      "iata": "BV",
+      "airline": "Sun Air",
+      "country": "South Africa"
+    },
+    {
+      "mawb": "930",
+      "icao": "NIS",
+      "iata": "6Y",
+      "airline": "TACA/Nicaraguense de Aviación",
+      "country": "Nicaragua"
+    },
+    {
+      "mawb": "932",
+      "icao": "VIR",
+      "iata": "VS",
+      "airline": "Virgin Atlantic Cargo",
+      "country": "United Kingdom"
+    },
+    {
+      "mawb": "934",
+      "icao": "EFR",
+      "airline": "Elf Air Co",
+      "country": "Russia"
+    },
+    {
+      "mawb": "936",
+      "icao": "TAT",
+      "iata": "IJ",
+      "airline": "TAT European Airlines",
+      "country": "France"
+    },
+    {
+      "mawb": "938",
+      "icao": "JEM",
+      "iata": "G3",
+      "airline": "Emerald Airways",
+      "country": "United Kingdom"
+    },
+    {
+      "mawb": "940",
+      "icao": "BTC",
+      "iata": "V9",
+      "airline": "Bashkir Airlines",
+      "country": "Russia"
+    },
+    {
+      "mawb": "942",
+      "icao": "TAO",
+      "iata": "VW",
+      "airline": "Transportes Aeromar SA de CV",
+      "country": "Mexico"
+    },
+    {
+      "mawb": "945",
+      "icao": "UDD",
+      "iata": "5D",
+      "airline": "Donbass Airlines",
+      "country": "Ukraine"
+    },
+    {
+      "mawb": "951",
+      "icao": "BLX",
+      "iata": "6B",
+      "airline": "TUIfly Nordic",
+      "country": "Sweden"
+    },
+    {
+      "mawb": "955",
+      "icao": "PNV",
+      "iata": "6Z",
+      "airline": "Panavia Cargo Airlines",
+      "country": "Panama"
+    },
+    {
+      "mawb": "957",
+      "icao": "TAM",
+      "iata": "JJ",
+      "airline": "TAM Linhas Aereas",
+      "country": "Brazil"
+    },
+    {
+      "mawb": "959",
+      "icao": "LHS",
+      "iata": "LE",
+      "airline": "Laparkan Airways",
+      "country": "United States"
+    },
+    {
+      "mawb": "965",
+      "icao": "RVL",
+      "iata": "DO",
+      "airline": "Air Vallee",
+      "country": "Italy"
+    },
+    {
+      "mawb": "967",
+      "icao": "SPR",
+      "iata": "PB",
+      "airline": "Provincial Airlines",
+      "country": "Canada"
+    },
+    {
+      "mawb": "972",
+      "icao": "FRS",
+      "iata": "IX",
+      "airline": "Flandre Air",
+      "country": "France"
+    },
+    {
+      "mawb": "976",
+      "icao": "MPX",
+      "iata": "QO",
+      "airline": "Aeromexpress Cargo",
+      "country": "Mexico"
+    },
+    {
+      "mawb": "979",
+      "icao": "TRA",
+      "iata": "HV",
+      "airline": "Transavia Airlines",
+      "country": "Netherlands"
+    },
+    {
+      "mawb": "982",
+      "icao": "RGI",
+      "iata": "YS",
+      "airline": "Regional",
+      "country": "France"
+    },
+    {
+      "mawb": "985",
+      "icao": "SVV",
+      "iata": "VC",
+      "airline": "Servivensa-Empresa Servicios Avensa",
+      "country": "Venezuela"
+    },
+    {
+      "mawb": "987",
+      "icao": "PFC",
+      "iata": "P4",
+      "airline": "Pacific International Airlines",
+      "country": "Panama"
+    },
+    {
+      "mawb": "989",
+      "icao": "GWL",
+      "iata": "IJ",
+      "airline": "Great Wall Airlines",
+      "country": "China PRC"
+    },
+    {
+      "mawb": "991",
+      "icao": "DAO",
+      "iata": "D3",
+      "airline": "Daallo Airlines",
+      "country": "Djibouti"
+    },
+    {
+      "mawb": "993",
+      "iata": "BH",
+      "airline": "Hawkair",
+      "country": "Canada"
+    },
+    {
+      "mawb": "995",
+      "icao": "BON",
+      "iata": "JA",
+      "airline": "B&H Airlines",
+      "country": "Bosnia-Herzegovina"
+    },
+    {
+      "mawb": "997",
+      "icao": "BBC",
+      "iata": "BG",
+      "airline": "Biman Bangladesh Airlines",
+      "country": "Bangladesh"
+    },
+    {
+      "mawb": "999",
+      "icao": "CCA",
+      "iata": "CA",
+      "airline": "Air China",
+      "country": "China PRC"
+    }
+  ]
+  
